@@ -8,8 +8,13 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 ## ✅ Curated Resources
 
-
 ### 📜 Research Papers
+
+* 📄 [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637) **[Paper]** 
+
+* 📄 [Securing the Cure: Large Language Models for Automated Cybersecurity Operations and Threat Response](https://arxiv.org/abs/2411.05185) **[Paper]** 
+
+* 📄 [Agentic LLMs for Cyber-Physical Systems Security: A Survey](https://arxiv.org/abs/2501.16466) **[Paper/Survey]** 
 
 * 📄 [From Sands to Mansions: Simulating Full Attack Chain with LLM-Organized Knowledge](https://arxiv.org/pdf/2407.16928) **[Paper]** 
 

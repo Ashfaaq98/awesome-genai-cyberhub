@@ -112,7 +112,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 * 🖥️ [External Reconnaissance MCP Server](https://github.com/naebo/mcp-external-recon-server) **[Github]** - A Model Context Protocol (MCP) server for performing active external reconnaissance activities against a domain. 
 
 
-### 🥈 LLM Models
+### 🥈 Models
 
 * 🧠 [SecureBERT](https://huggingface.co/ehsanaghaei/SecureBERT) **[Model/HuggingFace]** - A BERT model pre-trained on a vast corpus of cybersecurity texts.
 
