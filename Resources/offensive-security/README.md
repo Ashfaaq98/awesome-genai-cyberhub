@@ -81,6 +81,7 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * 🧑‍🏫 [Adversarial Misuse Generative AI](../../assets/docs/Adversarial%20Misuse%20Generative%20AI.pdf) **[Slides]**
 
+* 🧑‍🏫 [Weaponized AI](../../assets/docs/Weaponized%20AI.pdf) **[Slides]**
 
 ### 🛠️ Tools & Frameworks
 
