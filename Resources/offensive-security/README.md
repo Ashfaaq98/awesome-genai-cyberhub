@@ -79,6 +79,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * 🧑‍🏫 [Corey White - The Frontier of Cybersecurity Defending Against AI Based Threats](../../assets/docs/Corey%20White%20-%20The%20Frontier%20of%20Cybersecurity%20Defending%20Against%20AI%20Based%20Threats.pdf) **[Slides]**
 
+* 🧑‍🏫 [Adversarial Misuse Generative AI](../../assets/docs/Adversarial%20Misuse%20Generative%20AI.pdf) **[Slides]**
+
 
 ### 🛠️ Tools & Frameworks
 

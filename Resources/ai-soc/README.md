@@ -47,6 +47,8 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 
 
 * 🧑‍🏫 [Mark Orlando - Cobots Not Robots - AI in Security Operations](../../assets/docs/Mark%20Orlando%20-%20Cobots%20Not%20Robots%20-%20AI%20in%20Security%20Operations.pdf) **[Slides]**
+
+* 🧑‍🏫 [AI SOC](../../assets/docs/AI%20SOC.pdf) **[Slides]**
 ---
 
 ## 🧭 Navigate Back
