@@ -43,6 +43,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 ### 📚 Articles & Blog Posts
 
+* [AI as tradecraft: how threat actors operationalize AI (Microsoft Security Blog)](https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/) **[Blog]** - Analysis of how attackers integrate AI into reconnaissance, exploitation, and post-compromise TTPs.
+
 * [LLM Agents can Autonomously Hack Websites (Daniel Kang on Medium)](https://medium.com/@danieldkang/llm-agents-can-autonomously-hack-websites-ab33fadb3062) **[Blog]** 
 
 * [LLM-driven autonomous penetration testing (Gaya3 R. on Medium)](https://gaya3-r.medium.com/llm-driven-autonomous-penetration-testing-f4cb0566f386) **[Blog]** 
@@ -86,6 +88,10 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 ### 🛠️ Tools & Frameworks
 
 * [🛠️ RamiGPT (M507/RamiGPT on GitHub)](https://github.com/M507/RamiGPT) **[Tool/GitHub]** - An AI-driven offensive security tool.
+
+* [hexstrike-ai (GitHub)](https://github.com/0x4m4/hexstrike-ai) **[GitHub]** - Agentic red-team framework for autonomous or assisted offensive tasks.
+* [SynthAPT (GitHub)](https://github.com/acedef/SynthAPT) **[GitHub]** - Synthetic APT simulation using agent workflows to emulate adversary behaviors.
+* [redamon (GitHub)](https://github.com/samugit83/redamon) **[GitHub]** - Automation utilities leveraging LLMs to support red team tasking.
 
 
 ---

@@ -30,6 +30,13 @@ Welcome to the **Cyber Threat Intelligence (CTI)** section of Awesome GenAI Cybe
 
 * [Enhancing Threat Intelligence with LLMs and AI (Medium)](https://medium.com/@bravekjh/enhancing-threat-intelligence-with-llms-and-ai-d6e055d539dc) **[Article]** 
 
+* [Distillation, experimentation, and integration of AI adversarial use (Google Threat Intelligence Blog)](https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use) **[Blog]** - Guidance on integrating insights from adversarial AI into defender workflows and CTI production.
+
+* [Google China APT31 Gemini story (The Register)](https://www.theregister.com/2026/02/12/google_china_apt31_gemini/) **[News]** - News coverage of APT31’s alleged use of Gemini; context for AI-enabled adversary tradecraft.
+
+* [CrowdStrike Global Threat Report](https://www.crowdstrike.com/en-us/global-threat-report/) **[Report]** - Annual threat landscape trends and notable adversaries, including observations on attacker use of AI.
+
+* [Google Cybersecurity Forecast 2026](https://services.google.com/fh/files/misc/cybersecurity-forecast-2026-en.pdf) **[Report]** - Forecast of key cybersecurity developments for 2026 with emphasis on AI-driven defense and offense.
 
 ### 🎥 Videos
 

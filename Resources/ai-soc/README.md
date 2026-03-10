@@ -42,13 +42,16 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 
 * 📰 [Building an Autonomous SOC: A Step-by-Step Plan (Radiant Security Blog)](https://radiantsecurity.ai/learn/autonomous-soc/) **[Blog]** *(Published May 4, 2025)*
 
-
 * 📰 [Integrating LLMs into security operations using Wazuh (Bleeping Computer)](https://www.bleepingcomputer.com/news/security/integrating-llms-into-security-operations-using-wazuh/) **[Article]**  *(Published February 20, 2025)*
 
 
 * 🧑‍🏫 [Mark Orlando - Cobots Not Robots - AI in Security Operations](../../assets/docs/Mark%20Orlando%20-%20Cobots%20Not%20Robots%20-%20AI%20in%20Security%20Operations.pdf) **[Slides]**
 
 * 🧑‍🏫 [AI SOC](../../assets/docs/AI%20SOC.pdf) **[Slides]**
+
+* 📰 [AI as a force multiplier in cybersecurity (Binary Defense Blog)](https://binarydefense.com/resources/blog/ai-as-a-force-multiplier-in-cybersecurity) **[Blog]**
+
+* 📰 [Why off-the-shelf LLM clients fail DFIR and SOC workflows](https://ai.gopubby.com/why-off-the-shelf-llm-clients-fail-dfir-soc-workflows-4fbf7163ea75) **[Blog]** 
 ---
 
 ## 🧭 Navigate Back

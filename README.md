@@ -109,6 +109,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 * 🖥️ [VirusTotal MCP Server](https://smithery.ai/server/@AshfaaqF/mcp-priam-virustotal) **[Smithery]** - A Model Context Protocol (MCP) server for querying the VirusTotal API. 
 * 🖥️ [OTX Alien Vault MCP Server](https://smithery.ai/server/@AshfaaqF/mcp-priam-alienvault) **[Smithery]** - A Model Context Protocol (MCP) server for querying the Alien Vault API. 
 * 🖥️ [RSTCloud MCP Server](https://smithery.ai/server/@AshfaaqF/mcp-priam-rstcloud) **[Smithery]** - A Model Context Protocol (MCP) server for querying the RSTCloud API. 
+* 🖥️ [OpenCTI MCP Server](https://github.com/CooperCyberCoffee/opencti_mcp_server) **[Github]** - A Model Context Protocol (MCP) server for orchestrating and querying OpenCTI via LLM agents. 
 * 🖥️ [External Reconnaissance MCP Server](https://github.com/naebo/mcp-external-recon-server) **[Github]** - A Model Context Protocol (MCP) server for performing active external reconnaissance activities against a domain. 
 
 
@@ -158,6 +159,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [PRIMUS: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training](https://arxiv.org/abs/2502.11191) **[Paper/Dataset/Model]** 
 
+* 📊 [Introducing AI Cyber Model Arena: a real-world benchmark for AI agents in cybersecurity](https://www.wiz.io/blog/introducing-ai-cyber-model-arena-a-real-world-benchmark-for-ai-agents-in-cybersec) **[Blog]**
+
 ---
 
 ## How to Navigate & Contribute
@@ -179,4 +182,3 @@ Distributed under the MIT License. See [MIT License](LICENSE) for details.
 ##  Contact 
 
 For suggestions or PRs, open an issue or reach out to me at ashfaaqf@proton.me .
-

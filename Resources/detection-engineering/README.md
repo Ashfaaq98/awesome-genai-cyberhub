@@ -30,6 +30,8 @@ Welcome to the **Detection Engineering** section of Awesome GenAI CyberHub! This
 
 * 📰 [Effectiveness of LLMs for Detection Research (Cisco Talos Whitepaper)](https://blog.talosintelligence.com/content/files/2024/10/LLM-Detection-Whitepaper.pdf) **[Whitepaper]** - A whitepaper from Cisco Talos detailing research into how LLMs can assist defenders in writing more effective detection content and improving the detection research process.
 
+* [Evolving the Threat Hunter Playbook: planning hunts with agent skills (Open Threat Research Blog)](https://blog.openthreatresearch.com/evolving-the-threat-hunter-playbook-planning-hunts-with-agent-skills/) **[Blog]** - Hunt planning methodology leveraging agent skills to structure investigations.
+
 ### 🛠️ Tools & Frameworks
 
 * 🛠️  [DIANA (Detection & Intelligence Analysis for New Alerts) by dwillowtree](https://github.com/dwillowtree/diana) **[Tool/GitHub]** 
