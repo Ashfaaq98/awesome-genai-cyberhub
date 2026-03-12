@@ -36,6 +36,8 @@ Welcome to the **Detection Engineering** section of Awesome GenAI CyberHub! This
 
 * 🛠️  [DIANA (Detection & Intelligence Analysis for New Alerts) by dwillowtree](https://github.com/dwillowtree/diana) **[Tool/GitHub]** 
 
+* 🛠️ [SecurityClaw ( Skill-based autonomous SOC agent for monitoring SIEM data, using LLMs to validate anomalies and build search queries)](https://github.com/SecurityClaw/SecurityClaw) **[Tool/GitHub]** 
+
 ### 🎥 Videos
 
 * [Next-Gen Detection: Harnessing LLMs for Sigma Rule Automation (Feat. Dave Johnson from Feedly)](https://www.youtube.com/watch?app=desktop&v=oPsSUxt7ufs&list=PLbZzXF2qC3RtlV2pwcvdbsCBc1Vb8kwVw&index=45) **[Video]** 

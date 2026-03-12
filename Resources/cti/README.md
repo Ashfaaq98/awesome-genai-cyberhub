@@ -38,6 +38,10 @@ Welcome to the **Cyber Threat Intelligence (CTI)** section of Awesome GenAI Cybe
 
 * [Google Cybersecurity Forecast 2026](https://services.google.com/fh/files/misc/cybersecurity-forecast-2026-en.pdf) **[Report]** - Forecast of key cybersecurity developments for 2026 with emphasis on AI-driven defense and offense.
 
+* [Threat Actor Usage of AI Tools (Google Cloud Blog)](https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools?linkId=60744249) **[Blog]** - Analysis of how threat actors are evolving their use of AI from productivity to novel malware and dynamic behavior changes.
+
+* [From Narrative to Knowledge Graph: LLM-Driven Information Extraction in CTI (SentinelOne Labs)](https://www.sentinelone.com/labs/from-narrative-to-knowledge-graph-llm-driven-information-extraction-in-cyber-threat-intelligence/) **[Blog]** - Details the use of LLMs to automate the extraction of structured knowledge from unstructured threat reports.
+
 ### 🎥 Videos
 
 * [Effectively Navigating the Evolving AI Landscape in Threat Intelligence (YouTube)](https://www.youtube.com/watch?v=RepuHwg-JCA) **[Video]**

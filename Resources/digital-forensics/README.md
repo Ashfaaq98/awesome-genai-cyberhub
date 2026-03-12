@@ -33,6 +33,8 @@ Welcome to the **Digital Forensics** section of Awesome GenAI CyberHub! This spa
 
 * [A Large Language Model in Digital Forensics: Introducing BelkaGPT ](https://eforensicsmag.com/a-large-language-model-in-digital-forensics-introducing-belkagpt/) **[Article]** 
 
+* [Protocol SIFT: AI-Assisted DFIR Experimental Research Initiative (SANS Blog)](https://www.sans.org/blog/protocol-sift-experimental-research-initiative-ai-assisted-dfir) **[Blog]** 
+
 * 🧑‍🏫 [Jess Garcia - Gen-AI for DFIR in the Real World](../../assets/docs/Jess%20Garcia%20-%20Gen-AI%20for%20DFIR%20in%20the%20Real%20World.pdf) **[Slides]**
 
 ---

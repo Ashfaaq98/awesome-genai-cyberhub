@@ -49,8 +49,6 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 
 * 🧑‍🏫 [AI SOC](../../assets/docs/AI%20SOC.pdf) **[Slides]**
 
-* 📰 [AI as a force multiplier in cybersecurity (Binary Defense Blog)](https://binarydefense.com/resources/blog/ai-as-a-force-multiplier-in-cybersecurity) **[Blog]**
-
 * 📰 [Why off-the-shelf LLM clients fail DFIR and SOC workflows](https://ai.gopubby.com/why-off-the-shelf-llm-clients-fail-dfir-soc-workflows-4fbf7163ea75) **[Blog]** 
 ---
 

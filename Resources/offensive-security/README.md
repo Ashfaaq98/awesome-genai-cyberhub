@@ -93,6 +93,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 * [SynthAPT (GitHub)](https://github.com/acedef/SynthAPT) **[GitHub]** - Synthetic APT simulation using agent workflows to emulate adversary behaviors.
 * [redamon (GitHub)](https://github.com/samugit83/redamon) **[GitHub]** - Automation utilities leveraging LLMs to support red team tasking.
 
+* [Gideon (AI-Native Autonomous Security Operations and Red Teaming Agent with modular skills for CVE research, IOC analysis, and autonomous offensive operations)](https://github.com/cogensec/gideon) **[Tool/GitHub]** 
+
 
 ---
 
