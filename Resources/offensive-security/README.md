@@ -24,6 +24,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * 📄 [CIPHER: Cybersecurity Intelligent Penetration-Testing Helper for Ethical Researcher (26 October 2024)](https://www.mdpi.com/1424-8220/24/21/6878) **[Paper]** 
 
+* 📄 [Measuring AI Agents’ Progress on Multi-Step Cyber Attack Scenarios (16 Mar 2026)](https://arxiv.org/abs/2603.11214) **[Paper]**
+
 * [Responsible Development of Offensive AI (9 May 2024)](https://arxiv.org/pdf/2504.02701) **[Paper]**
 
 * 📄 [ARTIFICIAL INTELLIGENCE AS THE NEW HACKER: DEVELOPING AGENTS FOR OFFENSIVE SECURITY (9 May 2024)](https://arxiv.org/pdf/2406.07561) **[Paper]** 
