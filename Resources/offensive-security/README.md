@@ -38,10 +38,7 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * 📄 [Evaluating Large Language Models’ Capability to Launch Fully Automated Spear Phishing Campaigns: Validated on Human Subjects (30 NOV 2024)](https://arxiv.org/pdf/2412.00586) **[Paper]** 
 
-* [When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs (03 Feb 2025)](https://arxiv.org/pdf/2410.14569v3) **[Paper]** - 
-
-
-* 📄 [Evaluating Large Language Models’ Capability to Launch Fully Automated Spear Phishing Campaigns: Validated on Human Subjects ](https://arxiv.org/html/2412.00586v1) **[Paper]**  *(Published November/December 2024)*
+* [When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs (03 Feb 2025)](https://arxiv.org/pdf/2410.14569v3) **[Paper]**
 
 ### 📚 Articles & Blog Posts
 

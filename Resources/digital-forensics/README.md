@@ -18,7 +18,7 @@ Welcome to the **Digital Forensics** section of Awesome GenAI CyberHub! This spa
 
 * [ChatGPT for digital forensic investigation: The good, the bad, and the unknown ](https://forensicsandsecurity.com/papers/ChatGPT.pdf) **[Paper]** 
 
-* [Digital Forensics in the Age of Large Language Models ](https://arxiv.org/abs/2504.02963) **[Paper]** - 
+* [Digital Forensics in the Age of Large Language Models ](https://arxiv.org/abs/2504.02963) **[Paper]**
 
 * [Towards Large Language Model (LLM) Forensics Using LLM-based Invocation Log Analysis ](https://dl.acm.org/doi/10.1145/3689217.3690616) **[Paper]**
 

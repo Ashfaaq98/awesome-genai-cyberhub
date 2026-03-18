@@ -17,7 +17,7 @@ Welcome to the **Cyber Threat Intelligence (CTI)** section of Awesome GenAI Cybe
 
 * [Evaluation of LLM-based chatbots for OSINT-based Cyber Threat Awareness](https://www.sciencedirect.com/science/article/pii/S0957417424023765) **[Paper]** 
 
-* [Towards an AI-Enhanced Cyber Threat Intelligence Processing Pipeline ](https://arxiv.org/pdf/2403.03265) **[Paper]** -
+* [Towards an AI-Enhanced Cyber Threat Intelligence Processing Pipeline ](https://arxiv.org/pdf/2403.03265) **[Paper]**
 
 * [The Use of Large Language Models (LLM) for Cyber Threat Intelligence (CTI) in Cybercrime Forums](https://arxiv.org/abs/2408.03354) **[Paper]** 
 
