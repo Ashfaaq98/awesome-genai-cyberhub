@@ -93,6 +93,14 @@ awesome-genai-cyberhub/
 
 * 🤖 [Cyber Security llm Agents ](https://github.com/NVISOsecurity/cyber-security-llm-agents) **[Tool/GitHub]** - A collection of agents using LLMs (built on AutoGen) to perform common cybersecurity tasks, showcased at RSAC 2024.
 
+* 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) **[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
+
+* 🌐 [Incident Database](https://incidentdatabase.ai/) **[Resource]** - Collection of documented incidents involving AI systems (useful for threat modeling and safety context).
+
+* 🛠️ [AttackGen](https://attackgen.streamlit.app/) **[Tool/Website]** - Interactive helper for generating/structuring attack content and scenarios.
+
+* 🤖 [CAI (aliasrobotics/cai)](https://github.com/aliasrobotics/cai) **[Tool/GitHub]** - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).
+
 * 📄 [A Comprehensive Overview of Large Language Models (LLMs) for Cyber Defences: Opportunities and Directions ](https://arxiv.org/html/2405.14487v1) **[Paper/Review]** - Surveys LLM applications in cyber defense, categorizing them into threat intelligence, vulnerability assessment, network security, privacy, training, automation, and ethical guidelines. Also covers LLM concepts from Transformers to GPT.
 
 * 📄 [From Texts to Shields: Convergence of Large Language Models and Cybersecurity ](https://arxiv.org/html/2505.00841v1) **[Paper/Report]** - Explores the convergence of LLMs and cybersecurity, synthesizing insights from network security, AI, formal methods, and human-centered design. It examines LLM applications in software/network security, 5G vulnerability analysis, generative security engineering, and the role of agentic LLMs.
@@ -100,6 +108,18 @@ awesome-genai-cyberhub/
 * 📄 [When LLMs meet cybersecurity: a systematic literature review](https://arxiv.org/abs/2405.03644) **[Paper/Review]** - A systematic literature review of over 300 works, covering 25+ LLMs and 10+ downstream scenarios, addressing the construction of cybersecurity-oriented LLMs, their applications, challenges, and future research.
 
 * 📄 [Application of Large Language Models in Cybersecurity: a Systematic Literature Review ](https://www.researchgate.net/publication/386133416_Application_of_Large_Language_Models_in_Cybersecurity_a_Systematic_Literature_Review) **[Paper/Review]** - A systematic literature review of 177 articles (2018-2024) on LLM applications in offensive/defensive cybersecurity, cyberethics, legal frameworks, and cybersecurity governance.
+
+* 📄 [Cyber Shadows: Neutralizing Security Threats with AI and Targeted Policy Measures (28 Jan 2025)](https://arxiv.org/abs/2501.09025) **[Paper]**
+
+* 📄 [Comparative Analysis of AI-Driven Security Approaches in DevSecOps (arXiv:2504.19154)](https://arxiv.org/abs/2504.19154) **[Paper]**
+
+* 📰 [Threat modeling with LLMs: two years in (hype, hope, and a look at Gemini 2.5 Pro)](https://xvnpw.github.io/posts/threat-modeling-with-llms-two-years-in-hype-hope-and-a-look-at-gemini-2.5-pro/) **[Blog]**
+
+* 🎥 [AI security talk (YouTube)](https://www.youtube.com/watch?v=cjy5jpRS_S0) **[Video]**
+
+* 🎥 [YouTube talk (JcchpbEqjCs)](https://www.youtube.com/watch?v=JcchpbEqjCs) **[Video]**
+
+* 🎥 [YouTube talk (1c-X-igX7u0)](https://www.youtube.com/watch?v=1c-X-igX7u0) **[Video]**
 
 ### 🥇 MCP Servers (Model Context Protocol)
 
@@ -160,6 +180,10 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 * 📊 [PRIMUS: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training](https://arxiv.org/abs/2502.11191) **[Paper/Dataset/Model]** 
 
 * 📊 [Introducing AI Cyber Model Arena: a real-world benchmark for AI agents in cybersecurity](https://www.wiz.io/blog/introducing-ai-cyber-model-arena-a-real-world-benchmark-for-ai-agents-in-cybersec) **[Blog]**
+
+* 📊 [Cybersecurity AI Benchmark (CAIBench): A Meta-Benchmark for Evaluating Cybersecurity AI Agents](https://arxiv.org/abs/2510.24317) **[Paper/Benchmark]**
+
+* 📊 [Benchmark Best Practices for Evaluating AI Agents in Cybersecurity](https://arxiv.org/abs/2507.02825) **[Paper]**
 
 ---
 

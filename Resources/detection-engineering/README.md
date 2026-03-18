@@ -21,6 +21,8 @@ Welcome to the **Detection Engineering** section of Awesome GenAI CyberHub! This
 
 * 📄 [APT-LLM: Embedding-Based Anomaly Detection of Cyber Advanced Persistent Threats Using Large Language Models](https://arxiv.org/abs/2502.09385) **[Paper]** - Introduces APT-LLM, an embedding-based anomaly detection framework integrating LLMs with autoencoders to detect APTs by analyzing process-action provenance traces.
 
+* 📄 [GRIDAI: Generating and Repairing Intrusion Detection Rules via Collaboration among Multiple LLM-based Agents (arXiv:2510.13257)](https://arxiv.org/abs/2510.13257) **[Paper]**
+
 
 ### 📚 Articles & Blog Posts
 
@@ -31,6 +33,8 @@ Welcome to the **Detection Engineering** section of Awesome GenAI CyberHub! This
 * 📰 [Effectiveness of LLMs for Detection Research (Cisco Talos Whitepaper)](https://blog.talosintelligence.com/content/files/2024/10/LLM-Detection-Whitepaper.pdf) **[Whitepaper]** - A whitepaper from Cisco Talos detailing research into how LLMs can assist defenders in writing more effective detection content and improving the detection research process.
 
 * [Evolving the Threat Hunter Playbook: planning hunts with agent skills (Open Threat Research Blog)](https://blog.openthreatresearch.com/evolving-the-threat-hunter-playbook-planning-hunts-with-agent-skills/) **[Blog]** - Hunt planning methodology leveraging agent skills to structure investigations.
+
+* [Teaching AI agents your organization (Detection at Scale)](https://www.detectionatscale.com/p/teaching-ai-agents-your-organization) **[Blog]**
 
 ### 🛠️ Tools & Frameworks
 
@@ -43,6 +47,8 @@ Welcome to the **Detection Engineering** section of Awesome GenAI CyberHub! This
 * [Next-Gen Detection: Harnessing LLMs for Sigma Rule Automation (Feat. Dave Johnson from Feedly)](https://www.youtube.com/watch?app=desktop&v=oPsSUxt7ufs&list=PLbZzXF2qC3RtlV2pwcvdbsCBc1Vb8kwVw&index=45) **[Video]** 
 
 * [Creating Effective Sigma Rules with AI (Feat. Dave Johnson)](https://www.youtube.com/watch?v=d5089LlPtRY) **[Video]**
+
+* [DocYara MCP walkthrough (YouTube)](https://www.youtube.com/watch?v=mQqGS2WyRwU) **[Video]**
 
 ---
 

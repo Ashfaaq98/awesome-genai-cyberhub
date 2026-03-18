@@ -79,6 +79,16 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * [Building Your First Offensive Security MCP Server (nae-bo on Medium)](https://nae-bo.medium.com/building-your-first-offensive-security-mcp-server-dd655e258d5f) **[Blog]** 
 
+* [Impacts of Adversarial Generative AI on Homeland Security (10 Jan 2025)](https://www.dhs.gov/sites/default/files/2025-01/25_0110_st_impacts_of_adversarial_generative_aI_on_homeland_security_0.pdf) **[Report]** - DHS perspective on how adversarial GenAI could change threats, risk, and defensive posture.
+
+* [Unit 42 develops agentic AI attack framework](https://www.paloaltonetworks.com/blog/2025/05/unit-42-develops-agentic-ai-attack-framework/) **[Blog]** - Example of agentic offensive tradecraft concepts and how defenders can think about the resulting attack surface.
+
+* [Architects of Malice (AI Voodoo)](https://www.ai-voodoo.com/architects-of-malice.html) **[Article]**
+
+* [Agentic C2 ops (mez0)](https://mez0.cc/posts/agentic-c2-ops/) **[Blog]**
+
+* [Large language command & control (tomer2138 on Medium)](https://medium.com/@tomer2138/large-language-command-control-8552154fa167) **[Blog]**
+
 * 📰 [AI-Powered Phishing Outperforms Elite Red Teams in 2025](https://hoxhunt.com/blog/ai-powered-phishing-vs-humans) **[Blog]**  *(Published April 2025)*
 
 * 🧑‍🏫 [Corey White - The Frontier of Cybersecurity Defending Against AI Based Threats](../../assets/docs/Corey%20White%20-%20The%20Frontier%20of%20Cybersecurity%20Defending%20Against%20AI%20Based%20Threats.pdf) **[Slides]**
@@ -96,6 +106,26 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 * [redamon (GitHub)](https://github.com/samugit83/redamon) **[GitHub]** - Automation utilities leveraging LLMs to support red team tasking.
 
 * [Gideon (AI-Native Autonomous Security Operations and Red Teaming Agent with modular skills for CVE research, IOC analysis, and autonomous offensive operations)](https://github.com/cogensec/gideon) **[Tool/GitHub]** 
+
+* [HackMentor](https://github.com/tmylla/HackMentor) **[Tool/GitHub]** - Offensive-security learning/mentoring helper tool.
+
+* [hacktheweb](https://github.com/yashab-cyber/hacktheweb) **[Tool/GitHub]** - AI-assisted web exploitation/pentesting helper.
+
+* [BugPilot-Ai](https://github.com/letchupkt/BugPilot-Ai) **[Tool/GitHub]** - AI-assisted pentesting workflow experiments.
+
+* [AI-VAPT](https://github.com/vikramrajkumarmajji/AI-VAPT) **[Tool/GitHub]** - AI-assisted vulnerability assessment / penetration testing project.
+
+* [Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent) **[Tool/GitHub]** - Agentic automation for offensive-security tasks.
+
+* [ida-mcp-server-plugin](https://github.com/taida957789/ida-mcp-server-plugin) **[Tool/GitHub]** - MCP plugin integration for IDA Pro workflows.
+
+* [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) **[Tool/GitHub]** - MCP integration for Ghidra reverse engineering workflows.
+
+* [rogue](https://github.com/faizann24/rogue) **[Tool/GitHub]** - Agentic security experimentation project (offensive workflow focus).
+
+* [baby-naptime](https://github.com/faizann24/baby-naptime) **[Tool/GitHub]** - Agentic security experimentation project (offensive workflow focus).
+
+* [prompt (GoSecure)](https://github.com/gosecure/prompt) **[Tool/GitHub]** - Utilities for working with security-focused LLM prompting and testing workflows.
 
 
 ---

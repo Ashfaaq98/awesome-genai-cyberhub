@@ -42,11 +42,37 @@ Welcome to the **Cyber Threat Intelligence (CTI)** section of Awesome GenAI Cybe
 
 * [From Narrative to Knowledge Graph: LLM-Driven Information Extraction in CTI (SentinelOne Labs)](https://www.sentinelone.com/labs/from-narrative-to-knowledge-graph-llm-driven-information-extraction-in-cyber-threat-intelligence/) **[Blog]** - Details the use of LLMs to automate the extraction of structured knowledge from unstructured threat reports.
 
+* [Year in Review: AI-based threats (Cisco Talos)](https://blog.talosintelligence.com/year-in-review-ai-based-threats/) **[Blog]** - Recap of notable AI-enabled threat trends and defender takeaways.
+
+* [California Western Law Review article (Scholarly Commons, article 1780)](https://scholarlycommons.law.cwsl.edu/cgi/viewcontent.cgi?article=1780&context=cwlr) **[Paper]** - Legal analysis touching on GenAI’s adversarial misuse and security implications.
+
+* [Blue Helix: agentic OSINT researcher (Infoblox)](https://blogs.infoblox.com/security/blue-helix-agentic-osint-researcher/) **[Blog]** - Example of agentic OSINT workflows for security research and threat intelligence.
+
+* [HYAS EyeSpy Proof of Concept](https://www.hyas.com/hubfs/HYAS_EyeSpy_Proof_of_Concept.pdf) **[Report]** - OSINT-centric perspective on identity exposure and attacker enablement.
+
+* [Mandiant founder warns AI could change cyberattack dynamics (Axios, 13 May 2025)](https://www.axios.com/2025/05/13/mandiant-founder-artificial-intellience-cyberattack) **[News]**
+
+* [Researchers at SAFE and MIT Sloan: AI powers up to 80% of modern ransomware attacks (SAFE Security)](https://safe.security/resources/blog/researchers-at-safe-and-mit-sloan-find-ai-powers-as-much-as-80-of-modern-ransomware-attacks/) **[Blog]**
+
+* [SAFE CAMS / MIT working paper (7 Apr 2025)](https://cams.mit.edu/wp-content/uploads/Safe-CAMS-MIT-Article-Final-4-7-2025-Working-Paper.pdf?utm_medium=website&utm_source=direct&utm_campaign=safe-security) **[Paper]**
+
+### 🛠️ Tools & Frameworks
+
+* [Incalmo](https://github.com/bsinger98/Incalmo) **[Tool/GitHub]** - CTI/OSINT helper tooling for security research workflows.
+
+* [TTP-LLM](https://github.com/RezzFayyazi/TTP-LLM) **[Tool/GitHub]** - LLM-assisted extraction/mapping of adversary TTPs from unstructured text.
+
+* [mitreattack-python](https://github.com/mitre-attack/mitreattack-python) **[Tool/GitHub]** - Python utilities for working with MITRE ATT&CK data (STIX, techniques, relationships).
+
+* [cti-bench](https://github.com/xashru/cti-bench) **[Benchmark/GitHub]** - Benchmarking LLMs on CTI-style tasks.
+
 ### 🎥 Videos
 
 * [Effectively Navigating the Evolving AI Landscape in Threat Intelligence (YouTube)](https://www.youtube.com/watch?v=RepuHwg-JCA) **[Video]**
 
 * [Beyond the Basics: The Role of LLM in Modern Threat Intelligence (SANS Digital Forensics and Incident Response on YouTube)](http://www.youtube.com/watch?v=9PpfYaAxFq4) **[Video]** 
+
+* [HYAS EyeSpy proof-of-concept demo video](https://www.hyas.com/eyespy-proof-of-concept-demo-video) **[Video]**
 ---
 
 ## Navigate Back

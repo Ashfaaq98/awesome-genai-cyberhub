@@ -20,6 +20,8 @@ Welcome to the **LLM-Based Honeypots** section of Awesome GenAI CyberHub! This s
 
 * [beelzebub](https://github.com/mariocandela/beelzebub) **[Tool/GitHub]** - A secure low-code honeypot framework leveraging LLMs for system virtualization and creating high-interaction honeypots. Supports multiple protocols like SSH, HTTP, and TCP.
 
+* [honeybee](https://github.com/yaaras/honeybee) **[Tool/GitHub]** - LLM/agent-inspired deception and interaction experiments (honeypot-adjacent).
+
 
 ### 📜 Research Papers
 

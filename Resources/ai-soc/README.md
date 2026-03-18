@@ -17,6 +17,10 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 
 * 📄 [Transforming Security Operations Centers with LLM Agents for Automated Threat Response and Analysis (ResearchGate)](https://www.researchgate.net/publication/387398201_Transforming_Security_Operations_Centers_with_LLM_Agents_for_Automated_Threat_Response_and_Analysis_AUTHOR) **[Paper]** 
 
+* 📄 [Too Much to Trust? explainable AI in AI-driven SOCs (arXiv:2503.02065)](https://arxiv.org/abs/2503.02065) **[Paper]**
+
+* 📄 [CyberSentinel: An Open-Source Detection System Leveraging LLM Agents to Automate Cyber Threat Response (arXiv:2502.14966)](https://arxiv.org/abs/2502.14966) **[Paper]**
+
 
 ### 📚 Articles & Blog Posts
 
@@ -43,6 +47,24 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 * 📰 [Building an Autonomous SOC: A Step-by-Step Plan (Radiant Security Blog)](https://radiantsecurity.ai/learn/autonomous-soc/) **[Blog]** *(Published May 4, 2025)*
 
 * 📰 [Integrating LLMs into security operations using Wazuh (Bleeping Computer)](https://www.bleepingcomputer.com/news/security/integrating-llms-into-security-operations-using-wazuh/) **[Article]**  *(Published February 20, 2025)*
+
+* [Using Microsoft Sentinel MCP Server with GitHub Copilot for AI-Powered Threat Hunting](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/using-microsoft-sentinel-mcp-server-with-github-copilot-for-ai-powered-threat-hu/4464980) **[Blog]**
+
+* [AI Runbooks for Google SecOps: Security Operations with Model Context Protocol (Google Cloud Community)](https://www.googlecloudcommunity.com/gc/Community-Blog/AI-Runbooks-for-Google-SecOps-Security-Operations-with-Model/ba-p/906723) **[Blog]**
+
+* [A step-by-step guide to SOC automation (Threat hunting & incident response lab)](https://detect.fyi/step-by-step-guide-soc-automation-smb-threat-hunting-incident-response-lab-b6e48da2750d) **[Blog]**
+
+* [Multi-agent SOCs (Anvilogic)](https://www.anvilogic.com/learn/bg-multi-agent-socs) **[Blog]**
+
+* [Introducing the Autonomous SOC Maturity Model (SentinelOne)](https://www.sentinelone.com/blog/introducing-the-autonomous-soc-maturity-model/) **[Blog]**
+
+* [Inside the AI x Security arsenal I've built (SecurityBreak)](https://blog.securitybreak.io/inside-the-ai-x-security-arsenal-ive-built-0a77b6424918) **[Blog]**
+
+### 🛠️ Tools & Frameworks
+
+* [Tracecat (v0.36.0)](https://github.com/TracecatHQ/tracecat) **[Tool/GitHub]** - Automation/orchestration building block for security operations workflows.
+
+* [neuroSOC](https://github.com/sarahsolieman/neuroSOC) **[Tool/GitHub]** - Agentic SOC/DFIR-oriented experimentation project.
 
 
 * 🧑‍🏫 [Mark Orlando - Cobots Not Robots - AI in Security Operations](../../assets/docs/Mark%20Orlando%20-%20Cobots%20Not%20Robots%20-%20AI%20in%20Security%20Operations.pdf) **[Slides]**
