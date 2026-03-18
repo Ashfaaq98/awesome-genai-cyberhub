@@ -29,7 +29,7 @@
 
 > A curated collection of the best **LLM-based** resources for cybersecurity practitioners, researchers, and enthusiasts.
 
-Welcome to **Awesome GenAI CyberHub**, your focused repository for Large Language Model (LLM) applications in cybersecurity. Below you’ll find links to articles, papers, PoCs, frameworks, datasets, and community projects organized by **topic**, making it easy to navigate the ever-expanding landscape of LLM‑powered security.
+Welcome to **Awesome GenAI CyberHub**, your focused repository for Agentic AI Large Language Model (LLM) applications in cybersecurity. Below you’ll find links to articles, papers, PoCs, frameworks, datasets, and community projects organized by **topic**, making it easy to navigate the ever-expanding landscape of LLM‑powered security.
 
 ---
 
@@ -38,6 +38,10 @@ Welcome to **Awesome GenAI CyberHub**, your focused repository for Large Languag
 - [About](#about)
 - [Topic-Based Directory Structure](#topic-based-directory-structure)
 - [Resource Listings](#resource-listings)
+  - [General](#general)
+  - [MCP Servers (Model Context Protocol)](#mcp-servers-model-context-protocol)
+  - [Models](#models)
+  - [Benchmarks & Datasets](#benchmarks--datasets)
   - [AI SOC](./Resources/ai-soc/README.md)
   - [Cyber Threat Intelligence (CTI)](./Resources/cti/README.md)
   - [Malware Analysis](./Resources/malware-analysis/README.md)
@@ -115,11 +119,8 @@ awesome-genai-cyberhub/
 
 * 📰 [Threat modeling with LLMs: two years in (hype, hope, and a look at Gemini 2.5 Pro)](https://xvnpw.github.io/posts/threat-modeling-with-llms-two-years-in-hype-hope-and-a-look-at-gemini-2.5-pro/) **[Blog]**
 
-* 🎥 [AI security talk (YouTube)](https://www.youtube.com/watch?v=cjy5jpRS_S0) **[Video]**
+* 🎥 [Will AI Help or Hurt Cybersecurity? Definitely!](https://www.youtube.com/watch?v=cjy5jpRS_S0) **[Video]**
 
-* 🎥 [YouTube talk (JcchpbEqjCs)](https://www.youtube.com/watch?v=JcchpbEqjCs) **[Video]**
-
-* 🎥 [YouTube talk (1c-X-igX7u0)](https://www.youtube.com/watch?v=1c-X-igX7u0) **[Video]**
 
 ### 🥇 MCP Servers (Model Context Protocol)
 
