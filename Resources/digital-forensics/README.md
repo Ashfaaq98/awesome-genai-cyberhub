@@ -13,7 +13,6 @@ Welcome to the **Digital Forensics** section of Awesome GenAI CyberHub! This spa
 
 * [Advancing Cyber Incident Timeline Analysis Through Rule-Based AI and Large Language Models](https://arxiv.org/pdf/2409.02572) **[Paper]** 
 
-
 * [An LLM-driven Approach to Gain Cybercrime Insights with Evidence Networks ](https://www.usenix.org/system/files/soups2024_poster54-zhou_final.pdf) **[Paper/Poster]** 
 
 * [ChatGPT for digital forensic investigation: The good, the bad, and the unknown ](https://forensicsandsecurity.com/papers/ChatGPT.pdf) **[Paper]** 
@@ -33,7 +32,7 @@ Welcome to the **Digital Forensics** section of Awesome GenAI CyberHub! This spa
 
 * [A Large Language Model in Digital Forensics: Introducing BelkaGPT ](https://eforensicsmag.com/a-large-language-model-in-digital-forensics-introducing-belkagpt/) **[Article]** 
 
-* [Protocol SIFT: AI-Assisted DFIR Experimental Research Initiative (SANS Blog)](https://www.sans.org/blog/protocol-sift-experimental-research-initiative-ai-assisted-dfir) **[Blog]** 
+* [Introducing Protocol SIFT: Meeting AI Threat Speed with Defensive AI Orchestration](https://robtlee73.substack.com/p/introducing-protocol-sift-meeting) **[Blog]** 
 
 * 🧑‍🏫 [Jess Garcia - Gen-AI for DFIR in the Real World](../../assets/docs/Jess%20Garcia%20-%20Gen-AI%20for%20DFIR%20in%20the%20Real%20World.pdf) **[Slides]**
 
