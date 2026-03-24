@@ -121,6 +121,7 @@ awesome-genai-cyberhub/
 
 * 🎥 [Will AI Help or Hurt Cybersecurity? Definitely!](https://www.youtube.com/watch?v=cjy5jpRS_S0) **[Video]**
 
+---
 
 ### 🥇 MCP Servers (Model Context Protocol)
 
@@ -133,6 +134,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 * 🖥️ [OpenCTI MCP Server](https://github.com/CooperCyberCoffee/opencti_mcp_server) **[Github]** - A Model Context Protocol (MCP) server for orchestrating and querying OpenCTI via LLM agents. 
 * 🖥️ [External Reconnaissance MCP Server](https://github.com/naebo/mcp-external-recon-server) **[Github]** - A Model Context Protocol (MCP) server for performing active external reconnaissance activities against a domain. 
 
+---
 
 ### 🥈 Models
 
@@ -145,6 +147,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 🧠 [Google launches Sec-Gemini 1.0, a new AI model to advance cybersecurity (Google Security Blog)](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html) **[Blog/Model Announcement]** - Announces Sec-Gemini v1.0, an experimental AI model focused on cybersecurity, combining Gemini's advanced capabilities with near real-time cybersecurity knowledge.
 
+--- 
 
 ### 🥉 Benchmarks & Datasets
 
@@ -181,6 +184,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 * 📊 [PRIMUS: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training](https://arxiv.org/abs/2502.11191) **[Paper/Dataset/Model]** 
 
 * 📊 [Introducing AI Cyber Model Arena: a real-world benchmark for AI agents in cybersecurity](https://www.wiz.io/blog/introducing-ai-cyber-model-arena-a-real-world-benchmark-for-ai-agents-in-cybersec) **[Blog]**
+
+* 📊 [SANDBOXESCAPEBENCH: Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277) **[Paper/Benchmark]** - Introduces an open benchmark that safely measures an LLM agent's capacity to break out of sandboxes, implemented as a CTF evaluation utilizing a nested sandbox architecture.
 
 * 📊 [Cybersecurity AI Benchmark (CAIBench): A Meta-Benchmark for Evaluating Cybersecurity AI Agents](https://arxiv.org/abs/2510.24317) **[Paper/Benchmark]**
 
