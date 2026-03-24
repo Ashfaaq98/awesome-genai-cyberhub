@@ -147,6 +147,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 🧠 [Google launches Sec-Gemini 1.0, a new AI model to advance cybersecurity (Google Security Blog)](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html) **[Blog/Model Announcement]** - Announces Sec-Gemini v1.0, an experimental AI model focused on cybersecurity, combining Gemini's advanced capabilities with near real-time cybersecurity knowledge.
 
+* 🧠 [PRIMUS: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training](https://arxiv.org/abs/2502.11191) **[Paper/Dataset/Model]** 
+
 --- 
 
 ### 🥉 Benchmarks & Datasets
@@ -180,8 +182,6 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 * 📊 [SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity](https://arxiv.org/html/2412.20787) **[Benchmark/Dataset/Paper]** 
 
 * 📊 [CVE-Bench: A Benchmark for AI Agents’ Ability to Exploit Real-World Web Application Vulnerabilities (21 March 2025)](https://arxiv.org/pdf/2503.17332v1) **[Paper]** 
-
-* 📊 [PRIMUS: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training](https://arxiv.org/abs/2502.11191) **[Paper/Dataset/Model]** 
 
 * 📊 [Introducing AI Cyber Model Arena: a real-world benchmark for AI agents in cybersecurity](https://www.wiz.io/blog/introducing-ai-cyber-model-arena-a-real-world-benchmark-for-ai-agents-in-cybersec) **[Blog]**
 
