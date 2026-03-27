@@ -185,6 +185,10 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [Introducing AI Cyber Model Arena: a real-world benchmark for AI agents in cybersecurity](https://www.wiz.io/blog/introducing-ai-cyber-model-arena-a-real-world-benchmark-for-ai-agents-in-cybersec) **[Blog]**
 
+* 📊 [ZeroDayBench: Evaluating LLM Agents on Unseen Zero-Day Vulnerabilities for Cyberdefense](https://arxiv.org/abs/2603.02297) **[Paper/Benchmark]**
+
+* 📊 [CyberGym: Evaluating AI Agents' Real-World Cybersecurity Capabilities at Scale](https://arxiv.org/abs/2506.02548) **[Paper/Benchmark]**
+
 * 📊 [SANDBOXESCAPEBENCH: Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277) **[Paper/Benchmark]** - Introduces an open benchmark that safely measures an LLM agent's capacity to break out of sandboxes, implemented as a CTF evaluation utilizing a nested sandbox architecture.
 
 * 📊 [Cybersecurity AI Benchmark (CAIBench): A Meta-Benchmark for Evaluating Cybersecurity AI Agents](https://arxiv.org/abs/2510.24317) **[Paper/Benchmark]**

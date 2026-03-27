@@ -26,6 +26,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * 📄 [Measuring AI Agents’ Progress on Multi-Step Cyber Attack Scenarios (16 Mar 2026)](https://arxiv.org/abs/2603.11214) **[Paper]**
 
+* 📄 [CyberExplorer: Benchmarking LLM Offensive Security Capabilities in a Real-World Attacking Simulation Environment](https://arxiv.org/abs/2602.08023) **[Paper]**
+
 * [Responsible Development of Offensive AI (9 May 2024)](https://arxiv.org/pdf/2504.02701) **[Paper]**
 
 * 📄 [ARTIFICIAL INTELLIGENCE AS THE NEW HACKER: DEVELOPING AGENTS FOR OFFENSIVE SECURITY (9 May 2024)](https://arxiv.org/pdf/2406.07561) **[Paper]** 
