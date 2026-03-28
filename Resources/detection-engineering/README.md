@@ -42,6 +42,8 @@ Welcome to the **Detection Engineering** section of Awesome GenAI CyberHub! This
 
 * 🛠️ [SecurityClaw ( Skill-based autonomous SOC agent for monitoring SIEM data, using LLMs to validate anomalies and build search queries)](https://github.com/SecurityClaw/SecurityClaw) **[Tool/GitHub]** 
 
+* 🛠️ [detection-rule-classifier](https://github.com/cisco-foundation-ai/detection-rule-classifier) **[Tool/GitHub]** - Classifies Sigma and Splunk detection rules against MITRE ATT&CK.
+
 ### 🎥 Videos
 
 * [Next-Gen Detection: Harnessing LLMs for Sigma Rule Automation (Feat. Dave Johnson from Feedly)](https://www.youtube.com/watch?app=desktop&v=oPsSUxt7ufs&list=PLbZzXF2qC3RtlV2pwcvdbsCBc1Vb8kwVw&index=45) **[Video]** 

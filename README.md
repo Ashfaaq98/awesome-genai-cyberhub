@@ -195,6 +195,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [Benchmark Best Practices for Evaluating AI Agents in Cybersecurity](https://arxiv.org/abs/2507.02825) **[Paper]**
 
+* 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) **[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
+
 ---
 
 ## How to Navigate & Contribute

@@ -66,6 +66,8 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 
 * [neuroSOC](https://github.com/sarahsolieman/neuroSOC) **[Tool/GitHub]** - Agentic SOC/DFIR-oriented experimentation project.
 
+* [PEAK-Assistant](https://github.com/cisco-foundation-ai/PEAK-Assistant) **[Tool/GitHub]** - AI-backed threat hunting assistant aligned to the PEAK framework, with MCP and SIEM-driven hunt planning workflows.
+
 
 * 🧑‍🏫 [Mark Orlando - Cobots Not Robots - AI in Security Operations](../../assets/docs/Mark%20Orlando%20-%20Cobots%20Not%20Robots%20-%20AI%20in%20Security%20Operations.pdf) **[Slides]**
 
