@@ -126,6 +126,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * [prompt (GoSecure)](https://github.com/gosecure/prompt) **[Tool/GitHub]** - Utilities for working with security-focused LLM prompting and testing workflows.
 
+* 🎯 [PromptTrace](https://prompttrace.airedlab.com/) **[Web Platform]** - Free hands-on AI security training platform. Practice prompt injection, RAG poisoning, and tool exploitation against real LLMs with full prompt stack visibility via Context Trace. Includes 10 labs, a 15-level CTF (The Gauntlet), and 9 learning modules aligned with OWASP Top 10 for LLMs.
+
 
 ---
 
