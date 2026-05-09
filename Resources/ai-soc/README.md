@@ -60,6 +60,8 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 
 * [Inside the AI x Security arsenal I've built (SecurityBreak)](https://blog.securitybreak.io/inside-the-ai-x-security-arsenal-ive-built-0a77b6424918) **[Blog]**
 
+* 📰 [AI SOC Agent Pro Edition: Stop Triaging Wazuh Alerts Manually (osintteam.blog)](https://osintteam.blog/ai-soc-agent-pro-edition-stop-triaging-wazuh-alerts-manually-77487f891514) **[Blog]** - Practical guide to building an AI SOC agent that automates Wazuh alert triage end-to-end.
+
 ### 🛠️ Tools & Frameworks
 
 * [Tracecat (v0.36.0)](https://github.com/TracecatHQ/tracecat) **[Tool/GitHub]** - Automation/orchestration building block for security operations workflows.
@@ -68,12 +70,19 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 
 * [PEAK-Assistant](https://github.com/cisco-foundation-ai/PEAK-Assistant) **[Tool/GitHub]** - AI-backed threat hunting assistant aligned to the PEAK framework, with MCP and SIEM-driven hunt planning workflows.
 
+* 🛠️ [Vigil (Vigil-SOC)](https://github.com/Vigil-SOC/vigil) **[Tool/GitHub]** - Open-source AI SOC platform with 13 specialized agents (triage, investigate, respond, report) built on the Claude Agent SDK and MCP. Apache 2.0 licensed, fully inspectable agent reasoning. Website: [vigilsoc.org](https://vigilsoc.org).
+
 
 * 🧑‍🏫 [Mark Orlando - Cobots Not Robots - AI in Security Operations](../../assets/docs/Mark%20Orlando%20-%20Cobots%20Not%20Robots%20-%20AI%20in%20Security%20Operations.pdf) **[Slides]**
 
 * 🧑‍🏫 [AI SOC](../../assets/docs/AI%20SOC.pdf) **[Slides]**
 
 * 📰 [Why off-the-shelf LLM clients fail DFIR and SOC workflows](https://ai.gopubby.com/why-off-the-shelf-llm-clients-fail-dfir-soc-workflows-4fbf7163ea75) **[Blog]** 
+
+### 🎥 Videos
+
+* 🎥 [[un]prompted 2026 Conference Playlist](https://www.youtube.com/playlist?list=PLjmt1tu85IhAiVPugOjP-7Cy0Oemi3m7z) **[Video/Playlist]** - Full recording playlist from the [un]prompted 2026 AI Security Practitioner Conference (March 2026, San Francisco). 55+ talks covering practical AI × cybersecurity topics including autonomous agents, LLM red teaming, and AI-driven defense.
+
 ---
 
 ## 🧭 Navigate Back

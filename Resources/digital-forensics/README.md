@@ -25,6 +25,8 @@ Welcome to the **Digital Forensics** section of Awesome GenAI CyberHub! This spa
 
 * [Exploring the Potential of Large Language Models for Improving Digital Forensic Investigation Efficiency ](https://arxiv.org/abs/2402.19366) **[Paper]** 
 
+* [A Novel Ontology for Cyber-Attack Attribution and Investigation (Forensic Science International: Digital Investigation)](https://www.sciencedirect.com/science/article/pii/S2666281726000594) **[Paper]** - Proposes a structured ontology for cyber-attack attribution and investigation, enabling more systematic reasoning about threat actor identity and incident evidence.
+
 
 ### 📚 Articles & Blog Posts
 

@@ -104,7 +104,11 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 * [SynthAPT (GitHub)](https://github.com/acedef/SynthAPT) **[GitHub]** - Synthetic APT simulation using agent workflows to emulate adversary behaviors.
 * [redamon (GitHub)](https://github.com/samugit83/redamon) **[GitHub]** - Automation utilities leveraging LLMs to support red team tasking.
 
-* [Gideon (AI-Native Autonomous Security Operations and Red Teaming Agent with modular skills for CVE research, IOC analysis, and autonomous offensive operations)](https://github.com/cogensec/gideon) **[Tool/GitHub]** 
+* [Gideon (GitHub)](https://github.com/cogensec/gideon) **[Tool/GitHub]** - AI-Native Autonomous Security Operations and Red Teaming Agent with modular skills for CVE research, IOC analysis, and autonomous offensive operations.
+
+* [Talon (CarbeneAI)](https://github.com/CarbeneAI/Talon) **[Tool/GitHub]** - Penetration Testing MCP server for Claude Code. Connects Claude to a Kali Linux VM via SSH MCP, enabling AI-directed recon, automated 5-phase enumeration, and OSCP-style report generation — all from the terminal.
+
+* [AIRecon (pikpikcu)](https://github.com/pikpikcu/airecon) **[Tool/GitHub]** - Fully local, autonomous penetration testing agent combining a self-hosted Ollama LLM with a Kali Linux Docker sandbox and Textual TUI. Runs a complete RECON→ANALYSIS→EXPLOIT→REPORT pipeline with no API keys or cloud dependency.
 
 * [HackMentor](https://github.com/tmylla/HackMentor) **[Tool/GitHub]** - Offensive-security learning/mentoring helper tool.
 

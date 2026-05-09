@@ -117,6 +117,8 @@ awesome-genai-cyberhub/
 
 * 📄 [Comparative Analysis of AI-Driven Security Approaches in DevSecOps (arXiv:2504.19154)](https://arxiv.org/abs/2504.19154) **[Paper]**
 
+* 📄 [The Dual Role of Artificial Intelligence and LLM in Cybersecurity (IEEE)](https://ieeexplore.ieee.org/document/11452144) **[Paper]** - Examines the dual offensive and defensive role of AI and LLMs in cybersecurity, covering both how AI strengthens defenses and how it can be weaponized by adversaries.
+
 * 📰 [Threat modeling with LLMs: two years in (hype, hope, and a look at Gemini 2.5 Pro)](https://xvnpw.github.io/posts/threat-modeling-with-llms-two-years-in-hype-hope-and-a-look-at-gemini-2.5-pro/) **[Blog]**
 
 * 🎥 [Will AI Help or Hurt Cybersecurity? Definitely!](https://www.youtube.com/watch?v=cjy5jpRS_S0) **[Video]**

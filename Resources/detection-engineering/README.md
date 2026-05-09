@@ -44,6 +44,8 @@ Welcome to the **Detection Engineering** section of Awesome GenAI CyberHub! This
 
 * 🛠️ [detection-rule-classifier](https://github.com/cisco-foundation-ai/detection-rule-classifier) **[Tool/GitHub]** - Classifies Sigma and Splunk detection rules against MITRE ATT&CK.
 
+* 🛠️ [DetectFlow (SOC Prime)](https://github.com/socprime/detectflow-main) **[Tool/GitHub]** - AI-powered real-time detection pipeline that applies tens of thousands of Sigma rules at line-speed (0.005–0.01s MTTD) on streaming events, turbocharged with 11 years of detection intelligence. Supports Kafka/Flink-based ETL and works with Splunk, Sentinel, Elastic, and OpenSearch.
+
 ### 🎥 Videos
 
 * [Next-Gen Detection: Harnessing LLMs for Sigma Rule Automation (Feat. Dave Johnson from Feedly)](https://www.youtube.com/watch?app=desktop&v=oPsSUxt7ufs&list=PLbZzXF2qC3RtlV2pwcvdbsCBc1Vb8kwVw&index=45) **[Video]** 

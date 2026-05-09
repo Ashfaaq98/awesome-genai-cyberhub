@@ -22,6 +22,8 @@ Welcome to the **LLM-Based Honeypots** section of Awesome GenAI CyberHub! This s
 
 * [honeybee](https://github.com/yaaras/honeybee) **[Tool/GitHub]** - LLM/agent-inspired deception and interaction experiments (honeypot-adjacent).
 
+* [llm-honeypot (PalisadeResearch)](https://github.com/PalisadeResearch/llm-honeypot) **[Tool/GitHub]** - Modified Cowrie SSH honeypot that detects LLM-driven hacking agents using multi-stage prompt injection traps (goal hijacking + system prompt stealing). Includes a live dashboard. See also: [Paper (arXiv:2410.13919)](https://arxiv.org/abs/2410.13919).
+
 
 ### 📜 Research Papers
 
