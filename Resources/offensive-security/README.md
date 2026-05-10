@@ -118,6 +118,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * [AI-VAPT](https://github.com/vikramrajkumarmajji/AI-VAPT) **[Tool/GitHub]** - AI-assisted vulnerability assessment / penetration testing project.
 
+* [Pathfinder-AI (SamTruss)](https://github.com/SamTruss/Pathfinder-AI) **[Tool/GitHub]** - Agentic AI framework for autonomous VAPT with a Plan–Enumerate–Exploit–Report lifecycle, observe–reason–decide–act control loops, MCP tool integration, and policy-enforced governance.
+
 * [Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent) **[Tool/GitHub]** - Agentic automation for offensive-security tasks.
 
 * [ida-mcp-server-plugin](https://github.com/taida957789/ida-mcp-server-plugin) **[Tool/GitHub]** - MCP plugin integration for IDA Pro workflows.
