@@ -199,6 +199,10 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) **[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
 
+* 📊 [BotsBench](https://botsbench.com/) **[Benchmark/Leaderboard]** - Live leaderboard benchmarking AI agents (Claude Code, OpenAI Codex, etc.) on SOC investigation tasks using the Splunk BOTSv3 corpus. Covers 100+ log/alert providers, ATT&CK-mapped questions, efficiency tradeoffs, and contamination hygiene. By Graphistry. GitHub: [graphistry/bots-bench](https://github.com/graphistry/bots-bench).
+
+* 📊 [DefenseBench](https://defensebench.ai/) **[Benchmark/Website]** - Evaluates how well AI agents perform real-world defensive cybersecurity tasks — from triaging alerts to investigating incidents. Currently benchmarks agents on the Splunk Boss of the SOC v3 (BOTSv3) dataset using Splunk search under time pressure.
+
 ---
 
 ## How to Navigate & Contribute
