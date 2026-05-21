@@ -36,6 +36,10 @@ Welcome to the **Detection Engineering** section of Awesome GenAI CyberHub! This
 
 * [Teaching AI agents your organization (Detection at Scale)](https://www.detectionatscale.com/p/teaching-ai-agents-your-organization) **[Blog]**
 
+* 📰 [Detection Engineering AI Maturity Framework](https://infosecb.github.io/detection-engineering-ai-maturity/) **[Framework/Site]** - A community framework for assessing how organizations apply AI and large language models across a detection engineering program.
+
+* 📰 [Accelerating detection engineering using AI-assisted synthetic attack logs generation (Microsoft)](https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/) **[Blog]** - Explores research methods that translate attacker behaviors (TTPs) into synthetic logs that can trigger detections at scale and without sensitive data.
+
 ### 🛠️ Tools & Frameworks
 
 * 🛠️  [DIANA (Detection & Intelligence Analysis for New Alerts) by dwillowtree](https://github.com/dwillowtree/diana) **[Tool/GitHub]** 

@@ -62,6 +62,10 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 
 * 📰 [AI SOC Agent Pro Edition: Stop Triaging Wazuh Alerts Manually (osintteam.blog)](https://osintteam.blog/ai-soc-agent-pro-edition-stop-triaging-wazuh-alerts-manually-77487f891514) **[Blog]** - Practical guide to building an AI SOC agent that automates Wazuh alert triage end-to-end.
 
+* 📰 [Building an Agentic Security Operations Center (Harvey)](https://www.harvey.ai/blog/building-an-agentic-security-operations-center) **[Blog]** - Details how Harvey built a persistent, agent-native SOC around a world model of their threat surface.
+
+* 📰 [Continuous Detection Continuous Response - A new security operations framework (Mate Security)](https://mate.security/blog/continuous-detection-continuous-response---a-new-security-operations-framework) **[Blog]** - Proposes CD/CR as a new security operations framework, heavily enabled by autonomous and agentic workflows.
+
 ### 🛠️ Tools & Frameworks
 
 * [Tracecat (v0.36.0)](https://github.com/TracecatHQ/tracecat) **[Tool/GitHub]** - Automation/orchestration building block for security operations workflows.

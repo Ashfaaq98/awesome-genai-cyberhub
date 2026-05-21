@@ -203,6 +203,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [DefenseBench](https://defensebench.ai/) **[Benchmark/Website]** - Evaluates how well AI agents perform real-world defensive cybersecurity tasks — from triaging alerts to investigating incidents. Currently benchmarks agents on the Splunk Boss of the SOC v3 (BOTSv3) dataset using Splunk search under time pressure.
 
+* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) **[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
+
 ---
 
 ## How to Navigate & Contribute
