@@ -21,6 +21,8 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 
 * 📄 [CyberSentinel: An Open-Source Detection System Leveraging LLM Agents to Automate Cyber Threat Response (arXiv:2502.14966)](https://arxiv.org/abs/2502.14966) **[Paper]**
 
+* 📄 [LLMs in the SOC: An Empirical Study of Human-AI Collaboration in Security Operations Centres (arXiv:2508.18947)](https://arxiv.org/abs/2508.18947) **[Paper]**
+
 
 ### 📚 Articles & Blog Posts
 
