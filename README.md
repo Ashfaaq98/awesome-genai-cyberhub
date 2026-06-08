@@ -138,6 +138,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 ---
 
+* 🖥️ [TWZRD Agent Intel MCP](https://intel.twzrd.xyz) **[Live]** - On-chain behavioral trust scoring MCP server for GenAI cybersecurity agents on Solana. Verify AI agent wallet identity and behavioral track record before granting access to sensitive security data. Tools: `score_agent`, `preflight_check`, `get_trust_receipt`. Free endpoint: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ### 🥈 Models
 
 * 🧠 [SecureBERT](https://huggingface.co/ehsanaghaei/SecureBERT) **[Model/HuggingFace]** - A BERT model pre-trained on a vast corpus of cybersecurity texts.
