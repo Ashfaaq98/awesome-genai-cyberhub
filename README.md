@@ -103,6 +103,7 @@ awesome-genai-cyberhub/
 
 * 🛠️ [AttackGen](https://attackgen.streamlit.app/) **[Tool/Website]** - Interactive helper for generating/structuring attack content and scenarios.
 
+* 🤖 [Darkmoon](https://github.com/ASCIT31/Dark-Moon) **[Tool/GitHub]** - Open-source (GPL-3.0) autonomous AI pentest platform and MCP host with per-technology offensive sub-agents (GraphQL, Spring, .NET, Node, PHP, Ruby, WordPress), Active Directory and Kubernetes coverage, 80+ orchestrated tools, a local 14B LLM, a Privacy Gateway, and an evidence trail per finding.
 * 🤖 [CAI (aliasrobotics/cai)](https://github.com/aliasrobotics/cai) **[Tool/GitHub]** - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).
 
 * 📄 [A Comprehensive Overview of Large Language Models (LLMs) for Cyber Defences: Opportunities and Directions ](https://arxiv.org/html/2405.14487v1) **[Paper/Review]** - Surveys LLM applications in cyber defense, categorizing them into threat intelligence, vulnerability assessment, network security, privacy, training, automation, and ethical guidelines. Also covers LLM concepts from Transformers to GPT.
