@@ -132,6 +132,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * [prompt (GoSecure)](https://github.com/gosecure/prompt) **[Tool/GitHub]** - Utilities for working with security-focused LLM prompting and testing workflows.
 
+* 🤖 [Darkmoon (ASCIT31)](https://github.com/ASCIT31/Dark-Moon) **[Tool/GitHub]** - Open-source (GPL-3.0) autonomous AI pentest platform and MCP host with per-technology offensive sub-agents (GraphQL, Spring, .NET, Node, PHP, Ruby, WordPress), Active Directory and Kubernetes coverage, 80+ orchestrated tools, a local 14B LLM, a Privacy Gateway, and an evidence trail per finding.
+
 
 ---
 
