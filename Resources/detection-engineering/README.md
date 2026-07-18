@@ -13,7 +13,7 @@ Welcome to the **Detection Engineering** section of Awesome GenAI CyberHub! This
 
 * [Audit-LLM: Multi-Agent Collaboration for Log-based Insider Threat Detection](https://arxiv.org/pdf/2408.08902v1) **[Paper]** - Introduces Audit-LLM, a multi-agent framework for log-based insider threat detection using LLMs, featuring a Decomposer agent, Tool Builder agent, and Executor agents with an Evidence-based Multi-agent Debate (EMAD) mechanism.
 
-* [LLMCloudHunter: Harnessing LLMs for Automated Extraction of Detection Rules from Cloud-Based CTI](https://arxiv.org/pdf/2407.05194) **[Paper]** - Proposes LLMCloudHunter, a framework leveraging LLMs to automatically generate detection rule candidates from textual and visual open-source cloud threat intelligence (OS-CTI) data.
+* [LLMCloudHunter: Harnessing LLMs for Automated Extraction of Detection Rules from Cloud-Based CTI (arXiv:2407.05194)](https://arxiv.org/abs/2407.05194) **[Paper]** - Leverages LLMs to automatically generate detection rule candidates from cloud-based CTI, achieving 92% precision / 98% recall with direct SPL output. *(See also: [AI-Driven Threat Hunting](../threat-hunting/README.md))*
 
 * [The Always-On Purple Team: An Automated CI/CD for Detection Engineering (RSA Conference 2024)](https://static.rainfocus.com/rsac/us24/sess/1696325909809001qy71/finalwebsite/2024_USA24_HTA-M03_01_The-Always-On-Purple-Team-An-Automated-CICD-for-Detection-Engineering_1713983129840001qmBZ.pdf) **[Paper/Presentation]** - Presents an architecture merging SOC technologies (SIEM/XDR, SOAR, BAS, ChatGPT) into a detection engineering CI/CD pipeline for automatic creation, testing, and deployment of detection analytics.
 
@@ -32,9 +32,9 @@ Welcome to the **Detection Engineering** section of Awesome GenAI CyberHub! This
 
 * 📰 [Effectiveness of LLMs for Detection Research (Cisco Talos Whitepaper)](https://blog.talosintelligence.com/content/files/2024/10/LLM-Detection-Whitepaper.pdf) **[Whitepaper]** - A whitepaper from Cisco Talos detailing research into how LLMs can assist defenders in writing more effective detection content and improving the detection research process.
 
-* [Evolving the Threat Hunter Playbook: planning hunts with agent skills (Open Threat Research Blog)](https://blog.openthreatresearch.com/evolving-the-threat-hunter-playbook-planning-hunts-with-agent-skills/) **[Blog]** - Hunt planning methodology leveraging agent skills to structure investigations.
+* [Evolving the Threat Hunter Playbook: planning hunts with agent skills (Open Threat Research Blog)](https://blog.openthreatresearch.com/evolving-the-threat-hunter-playbook-planning-hunts-with-agent-skills/) **[Blog]** - Hunt planning methodology leveraging agent skills to structure investigations. *(See also: [AI-Driven Threat Hunting](../threat-hunting/README.md))*
 
-* [Teaching AI agents your organization (Detection at Scale)](https://www.detectionatscale.com/p/teaching-ai-agents-your-organization) **[Blog]**
+* [Teaching AI agents your organization (Detection at Scale)](https://www.detectionatscale.com/p/teaching-ai-agents-your-organization) **[Blog]** *(See also: [AI-Driven Threat Hunting](../threat-hunting/README.md))*
 
 * 📰 [Detection Engineering AI Maturity Framework](https://infosecb.github.io/detection-engineering-ai-maturity/) **[Framework/Site]** - A community framework for assessing how organizations apply AI and large language models across a detection engineering program.
 

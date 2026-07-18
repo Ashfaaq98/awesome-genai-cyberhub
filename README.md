@@ -47,6 +47,7 @@ Welcome to **Awesome GenAI CyberHub**, your focused repository for Agentic AI La
   - [Malware Analysis](./Resources/malware-analysis/README.md)
   - [Vulnerability Analysis](./Resources/vulnerability-analysis/README.md)
   - [Detection Engineering](./Resources/detection-engineering/README.md)
+  - [AI-Driven Threat Hunting](./Resources/threat-hunting/README.md)
   - [Phishing Analysis](./Resources/phishing-analysis/README.md)
   - [LLM-Based Honeypots](./Resources/honeypots/README.md)
   - [Offensive Security](./Resources/offensive-security/README.md)
@@ -72,6 +73,7 @@ awesome-genai-cyberhub/
    ├── malware-analysis/      # LLM driven malware Analysis
    ├── vulnerability-analysis/ # LLMs in vuln discovery
    ├── detection-engineering/ # Generative AI rule writing & alerts
+   ├── threat-hunting/        # AI-driven threat hunting & hypothesis gen
    ├── phishing-analysis/     # Phishing Analysis & detection
    ├── honeypots/             # LLM-driven honeypot frameworks
    ├── offensive-security/    # Offensive security workflows
