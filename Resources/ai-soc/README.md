@@ -50,8 +50,6 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 
 * 📰 [Integrating LLMs into security operations using Wazuh (Bleeping Computer)](https://www.bleepingcomputer.com/news/security/integrating-llms-into-security-operations-using-wazuh/) **[Article]**  *(Published February 20, 2025)*
 
-* [Using Microsoft Sentinel MCP Server with GitHub Copilot for AI-Powered Threat Hunting](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/using-microsoft-sentinel-mcp-server-with-github-copilot-for-ai-powered-threat-hu/4464980) **[Blog]**
-
 * [AI Runbooks for Google SecOps: Security Operations with Model Context Protocol (Google Cloud Community)](https://www.googlecloudcommunity.com/gc/Community-Blog/AI-Runbooks-for-Google-SecOps-Security-Operations-with-Model/ba-p/906723) **[Blog]**
 
 * [A step-by-step guide to SOC automation (Threat hunting & incident response lab)](https://detect.fyi/step-by-step-guide-soc-automation-smb-threat-hunting-incident-response-lab-b6e48da2750d) **[Blog]**
@@ -73,8 +71,6 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 * [Tracecat (v0.36.0)](https://github.com/TracecatHQ/tracecat) **[Tool/GitHub]** - Automation/orchestration building block for security operations workflows.
 
 * [neuroSOC](https://github.com/sarahsolieman/neuroSOC) **[Tool/GitHub]** - Agentic SOC/DFIR-oriented experimentation project.
-
-* [PEAK-Assistant](https://github.com/cisco-foundation-ai/PEAK-Assistant) **[Tool/GitHub]** - AI-backed threat hunting assistant aligned to the PEAK framework, with MCP and SIEM-driven hunt planning workflows.
 
 * 🛠️ [Vigil (Vigil-SOC)](https://github.com/Vigil-SOC/vigil) **[Tool/GitHub]** - Open-source AI SOC platform with 13 specialized agents (triage, investigate, respond, report) built on the Claude Agent SDK and MCP. Apache 2.0 licensed, fully inspectable agent reasoning. Website: [vigilsoc.org](https://vigilsoc.org).
 
