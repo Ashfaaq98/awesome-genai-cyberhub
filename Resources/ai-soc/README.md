@@ -23,6 +23,8 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 
 * 📄 [LLMs in the SOC: An Empirical Study of Human-AI Collaboration in Security Operations Centres (arXiv:2508.18947)](https://arxiv.org/abs/2508.18947) **[Paper]**
 
+* 📄 [Toward Robust Security Orchestration and Automated Response in Security Operations Centers with a Hyper-Automation Approach Using Agentic Artificial Intelligence](../../assets/docs/Toward-Robust-Security-Orchestration-and-Automated-Response.pdf) **[Paper]**
+
 
 ### 📚 Articles & Blog Posts
 

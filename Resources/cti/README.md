@@ -68,11 +68,16 @@ Welcome to the **Cyber Threat Intelligence (CTI)** section of Awesome GenAI Cybe
 
 ### 🎥 Videos
 
-* [Effectively Navigating the Evolving AI Landscape in Threat Intelligence (YouTube)](https://www.youtube.com/watch?v=RepuHwg-JCA) **[Video]**
+* 🎥 [Effectively Navigating the Evolving AI Landscape in Threat Intelligence (YouTube)](https://www.youtube.com/watch?v=RepuHwg-JCA) **[Video]**
 
-* [Beyond the Basics: The Role of LLM in Modern Threat Intelligence (SANS Digital Forensics and Incident Response on YouTube)](http://www.youtube.com/watch?v=9PpfYaAxFq4) **[Video]** 
+* 🎥 [Beyond the Basics: The Role of LLM in Modern Threat Intelligence (SANS Digital Forensics and Incident Response on YouTube)](http://www.youtube.com/watch?v=9PpfYaAxFq4) **[Video]** 
 
-* [HYAS EyeSpy proof-of-concept demo video](https://www.hyas.com/eyespy-proof-of-concept-demo-video) **[Video]**
+* 🎥 [HYAS EyeSpy proof-of-concept demo video](https://www.hyas.com/eyespy-proof-of-concept-demo-video) **[Video]**
+
+### 🧑‍🏫 Presentations & Slides
+
+* 🧑‍🏫 [Thomas Roccia & Roberto Rodriguez - Beyond the Basics: The Role of LLM in Modern Threat Intelligence](../../assets/docs/Thomas%20Roccia%20%26%20Roberto%20Rodriguez%20-%20Beyond%20the%20Basics.pdf) **[Slides]**
+
 ---
 
 ## Navigate Back
