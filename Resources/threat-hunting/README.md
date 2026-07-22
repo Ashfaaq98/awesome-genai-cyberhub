@@ -22,6 +22,8 @@ Welcome to the **AI-Driven Threat Hunting** section of Awesome GenAI CyberHub! T
 
 * 🛠️ [Watcher (thalesgroup-cert)](https://github.com/thalesgroup-cert/Watcher) **[Tool/GitHub]** - Open-source AI-powered Cyber Threat Intelligence & hunting platform (Django + React JS). Provides AI-driven threat intel digests, CVE/ransomware tracking, domain surveillance, IOC correlation, and integrations with TheHive and MISP. AGPL-3.0 licensed. 1.3k+ GitHub stars.
 
+* 🛠️ [agentic-threat-hunting-framework (Nebulock-Inc)](https://github.com/Nebulock-Inc/agentic-threat-hunting-framework) **[Tool/GitHub]** - Framework for agentic threat hunting, utilizing autonomous AI agents for proactive threat detection and operational workflows.
+
 
 ### 📚 Articles & Blog Posts
 
@@ -30,6 +32,10 @@ Welcome to the **AI-Driven Threat Hunting** section of Awesome GenAI CyberHub! T
 * 📰 [Using Microsoft Sentinel MCP Server with GitHub Copilot for AI-Powered Threat Hunting](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/using-microsoft-sentinel-mcp-server-with-github-copilot-for-ai-powered-threat-hu/4464980) **[Blog]** - Demonstrates using Microsoft Sentinel's MCP server with GitHub Copilot to perform AI-powered threat hunting queries.
 
 * 📰 [Teaching AI agents your organization (Detection at Scale)](https://www.detectionatscale.com/p/teaching-ai-agents-your-organization) **[Blog]** - Explores how to give AI agents the organizational context they need to hunt effectively within your specific environment.
+
+* 📰 [Vibe Hunting (Exaforce)](https://www.exaforce.com/blogs/vibe-hunting) **[Blog]** - Explores AI-assisted threat hunting methodologies and leveraging LLMs for intuitive, natural language hypothesis generation and threat investigations.
+
+* 📰 [The Hunter's Paradox: Is it time to embrace automated threat hunting? (Cisco Talos)](https://blog.talosintelligence.com/the-hunters-paradox-is-it-time-to-embrace-automated-threat-hunting/) **[Blog]** - Examines the balance between manual threat hunting constraints and scaling hunting operations through AI-driven automation.
 
 ---
 

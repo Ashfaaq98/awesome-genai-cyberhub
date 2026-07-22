@@ -147,7 +147,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 * 🧠 [Lily Cybersecurity 7B v0.2](https://huggingface.co/segolilylabs/Lily-Cybersecurity-7B-v0.2) **[Model/HuggingFace]** - A 7B parameter Mistral fine-tune, acting as a cybersecurity assistant trained on approximately 22,000 hand-crafted cybersecurity and hacking-related data pairs. 
 
 * 🧠 [Foundation Sec 8B](https://huggingface.co/fdtn-ai/Foundation-Sec-8B) **[Model/HuggingFace]** - An 8-billion parameter base language model (extending Llama-3.1-8B) specialized for cybersecurity applications through continued pretraining on a curated corpus of cybersecurity-specific text. 
- 
+
+* 🧠 [Antares Model Collection (fdtn-ai)](https://huggingface.co/collections/fdtn-ai/antares) **[Collection/HuggingFace]** - A collection of specialized open cybersecurity models developed by Foundation AI (fdtn-ai).
 
 * 🧠 [Google launches Sec-Gemini 1.0, a new AI model to advance cybersecurity (Google Security Blog)](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html) **[Blog/Model Announcement]** - Announces Sec-Gemini v1.0, an experimental AI model focused on cybersecurity, combining Gemini's advanced capabilities with near real-time cybersecurity knowledge.
 
