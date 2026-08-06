@@ -23,6 +23,8 @@ Welcome to the **Cyber Threat Intelligence (CTI)** section of Awesome GenAI Cybe
 
 * [LLM-Assisted Proactive Threat Intelligence for Automated Reasoning](https://arxiv.org/abs/2504.00428) **[Paper]** 
 
+* 📄 [CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research? (arXiv:2603.09452)](https://arxiv.org/abs/2603.09452) **[Paper]** 
+
 
 ### 📚 Articles & Blog Posts
 

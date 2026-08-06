@@ -194,6 +194,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [CyberGym: Evaluating AI Agents' Real-World Cybersecurity Capabilities at Scale](https://arxiv.org/abs/2506.02548) **[Paper/Benchmark]**
 
+* 📊 [CyberGym-E2E (sunblaze-ucb)](https://github.com/sunblaze-ucb/cybergym-e2e) **[Benchmark/GitHub]** - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).
+
 * 📊 [SANDBOXESCAPEBENCH: Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277) **[Paper/Benchmark]** - Introduces an open benchmark that safely measures an LLM agent's capacity to break out of sandboxes, implemented as a CTF evaluation utilizing a nested sandbox architecture.
 
 * 📊 [Cybersecurity AI Benchmark (CAIBench): A Meta-Benchmark for Evaluating Cybersecurity AI Agents](https://arxiv.org/abs/2510.24317) **[Paper/Benchmark]**
@@ -207,6 +209,10 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 * 📊 [DefenseBench](https://defensebench.ai/) **[Benchmark/Website]** - Evaluates how well AI agents perform real-world defensive cybersecurity tasks — from triaging alerts to investigating incidents. Currently benchmarks agents on the Splunk Boss of the SOC v3 (BOTSv3) dataset using Splunk search under time pressure.
 
 * 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) **[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
+
+* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) **[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
+
+* 📊 [CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research?](https://arxiv.org/abs/2603.09452) **[Paper/Benchmark]** - An expert-annotated benchmark collected from the daily CTI workflow of a world-leading company to assess LLMs on practical threat intelligence tasks (triage, deep search, and TI drafting).
 
 ---
 
