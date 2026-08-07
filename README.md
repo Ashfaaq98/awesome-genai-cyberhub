@@ -214,6 +214,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research?](https://arxiv.org/abs/2603.09452) **[Paper/Benchmark]** - An expert-annotated benchmark collected from the daily CTI workflow of a world-leading company to assess LLMs on practical threat intelligence tasks (triage, deep search, and TI drafting).
 
+* 📊 [AgentCyberRange](https://agentcyberrange.io/) **[Benchmark/Website]** - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the [Research Paper (arXiv:2606.14295)](https://arxiv.org/abs/2606.14295) and the [WebExploitBench GitHub Repo](https://github.com/AgentCyberRange/WebExploitBench).
+
 ---
 
 ## How to Navigate & Contribute
