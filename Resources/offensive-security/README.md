@@ -28,6 +28,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * 📄 [CyberExplorer: Benchmarking LLM Offensive Security Capabilities in a Real-World Attacking Simulation Environment](https://arxiv.org/abs/2602.08023) **[Paper]**
 
+* 📄 [A Survey of LLM-Driven Penetration Testing: Taxonomy, Co-Evolution, and Open Challenges (arXiv:2607.02605)](https://arxiv.org/abs/2607.02605) **[Paper/Survey]** - Analyses 81 papers on "Agents4Pentest" (LLM-based autonomous penetration testing systems), building taxonomies across six categories and tracing four phases of agent architecture evolution up to RL-with-verifiable-rewards systems that discover attack strategies beyond expert demonstrations.
+
 * [Responsible Development of Offensive AI (9 May 2024)](https://arxiv.org/pdf/2504.02701) **[Paper]**
 
 * 📄 [ARTIFICIAL INTELLIGENCE AS THE NEW HACKER: DEVELOPING AGENTS FOR OFFENSIVE SECURITY (9 May 2024)](https://arxiv.org/pdf/2406.07561) **[Paper]** 

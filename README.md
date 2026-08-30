@@ -121,6 +121,10 @@ awesome-genai-cyberhub/
 
 * 📄 [The Dual Role of Artificial Intelligence and LLM in Cybersecurity (IEEE)](https://ieeexplore.ieee.org/document/11452144) **[Paper]** - Examines the dual offensive and defensive role of AI and LLMs in cybersecurity, covering both how AI strengthens defenses and how it can be weaponized by adversaries.
 
+* 📄 [Large Language Models for Cybersecurity Intelligence: A Systematic Review of Emerging Threats, Defensive Capabilities, and Security Evaluation Frameworks (Computers, Materials & Continua, 2026)](https://www.sciencedirect.com/org/science/article/pii/S1546221826003565) **[Paper/Review]** - A PRISMA 2020 systematic review spanning eight scholarly databases (Jan 2022 – Dec 2025), mapping LLM-enabled threats, defensive capabilities, and the evaluation frameworks used to measure them.
+
+* 📄 [LLM Agents Security Duality: A Comprehensive Survey of Self-Security and Empowered Cybersecurity (arXiv:2606.28450)](https://arxiv.org/abs/2606.28450) **[Paper/Survey]** - Surveys both sides of agent security: threats against LLM agents themselves along with mitigations, and how agent capabilities are applied in offensive and defensive cybersecurity practice.
+
 * 📰 [Threat modeling with LLMs: two years in (hype, hope, and a look at Gemini 2.5 Pro)](https://xvnpw.github.io/posts/threat-modeling-with-llms-two-years-in-hype-hope-and-a-look-at-gemini-2.5-pro/) **[Blog]**
 
 * 🎥 [Will AI Help or Hurt Cybersecurity? Definitely!](https://www.youtube.com/watch?v=cjy5jpRS_S0) **[Video]**
@@ -201,6 +205,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 * 📊 [Cybersecurity AI Benchmark (CAIBench): A Meta-Benchmark for Evaluating Cybersecurity AI Agents](https://arxiv.org/abs/2510.24317) **[Paper/Benchmark]**
 
 * 📊 [Benchmark Best Practices for Evaluating AI Agents in Cybersecurity](https://arxiv.org/abs/2507.02825) **[Paper]**
+
+* 📊 [Evaluating Large Language Models in Cybersecurity: A Systematic Taxonomy and Empirical Analysis (MDPI Electronics, May 2026)](https://www.mdpi.com/2079-9292/15/10/2222) **[Paper/SoK]** - A systematization of knowledge proposing a three-dimensional taxonomy matrix over offensive domains, defensive applications, and inherent architectural flaws, showing how static metric success rarely translates into end-to-end adversarial efficacy.
 
 * 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) **[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
 
