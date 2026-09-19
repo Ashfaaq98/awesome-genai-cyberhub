@@ -104,8 +104,6 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * [🛠️ RamiGPT (M507/RamiGPT on GitHub)](https://github.com/M507/RamiGPT) **[Tool/GitHub]** - An AI-driven offensive security tool.
 
-* [AgentHound (adithyan-ak)](https://github.com/adithyan-ak/agenthound) **[Tool/GitHub]** - Offensive security framework for agentic infrastructure. A single static collector maps MCP servers, A2A agents, credentials, hosts, and AI gateways from a compromised host into a JSON artifact, then builds an attack graph of credential chains, execution paths, and exfiltration vectors. Supports active, stealth (read-only), and deep collection modes. See also the author's write-up: [Building an AI Agent Attack Graph](https://adithyanak.com/build-ai-agent-attack-graph-agenthound/).
-
 * [hexstrike-ai (GitHub)](https://github.com/0x4m4/hexstrike-ai) **[GitHub]** - Agentic red-team framework for autonomous or assisted offensive tasks.
 * [SynthAPT (GitHub)](https://github.com/acedef/SynthAPT) **[GitHub]** - Synthetic APT simulation using agent workflows to emulate adversary behaviors.
 * [redamon (GitHub)](https://github.com/samugit83/redamon) **[GitHub]** - Automation utilities leveraging LLMs to support red team tasking.

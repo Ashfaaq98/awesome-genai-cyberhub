@@ -101,8 +101,6 @@ awesome-genai-cyberhub/
 
 * 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) **[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
 
-* 🌐 [Incident Database](https://incidentdatabase.ai/) **[Resource]** - Collection of documented incidents involving AI systems (useful for threat modeling and safety context).
-
 * 🛠️ [AttackGen](https://attackgen.streamlit.app/) **[Tool/Website]** - Interactive helper for generating/structuring attack content and scenarios.
 
 * 🤖 [CAI (aliasrobotics/cai)](https://github.com/aliasrobotics/cai) **[Tool/GitHub]** - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).
@@ -122,8 +120,6 @@ awesome-genai-cyberhub/
 * 📄 [The Dual Role of Artificial Intelligence and LLM in Cybersecurity (IEEE)](https://ieeexplore.ieee.org/document/11452144) **[Paper]** - Examines the dual offensive and defensive role of AI and LLMs in cybersecurity, covering both how AI strengthens defenses and how it can be weaponized by adversaries.
 
 * 📄 [Large Language Models for Cybersecurity Intelligence: A Systematic Review of Emerging Threats, Defensive Capabilities, and Security Evaluation Frameworks (Computers, Materials & Continua, 2026)](https://www.sciencedirect.com/org/science/article/pii/S1546221826003565) **[Paper/Review]** - A PRISMA 2020 systematic review spanning eight scholarly databases (Jan 2022 – Dec 2025), mapping LLM-enabled threats, defensive capabilities, and the evaluation frameworks used to measure them.
-
-* 📄 [LLM Agents Security Duality: A Comprehensive Survey of Self-Security and Empowered Cybersecurity (arXiv:2606.28450)](https://arxiv.org/abs/2606.28450) **[Paper/Survey]** - Surveys both sides of agent security: threats against LLM agents themselves along with mitigations, and how agent capabilities are applied in offensive and defensive cybersecurity practice.
 
 * 📰 [Threat modeling with LLMs: two years in (hype, hope, and a look at Gemini 2.5 Pro)](https://xvnpw.github.io/posts/threat-modeling-with-llms-two-years-in-hype-hope-and-a-look-at-gemini-2.5-pro/) **[Blog]**
 
