@@ -48,6 +48,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * [AI as tradecraft: how threat actors operationalize AI (Microsoft Security Blog)](https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/) **[Blog]** - Analysis of how attackers integrate AI into reconnaissance, exploitation, and post-compromise TTPs.
 
+* [Open Weight Models Are Capable Autonomous Network Attackers (CMU Cyber Autonomy Initiative, Sep 2026)](https://cylabcyberautonomy.github.io/blogposts/open-source-models-are-capable-autonomous-network-attackers/) **[Blog/Research]** - Evaluates three open-weight models as autonomous attackers on the MHBench cyber range across three harnesses (Incalmo, Artemis, and a bare bash baseline), finding open weights now viable for multi-host network attack and releasing the [Open-Weights Attacker Dataset](https://cylabcyberautonomy.github.io/data/open-weights-attacker-dataset/).
+
 * [LLM Agents can Autonomously Hack Websites (Daniel Kang on Medium)](https://medium.com/@danieldkang/llm-agents-can-autonomously-hack-websites-ab33fadb3062) **[Blog]** 
 
 * [LLM-driven autonomous penetration testing (Gaya3 R. on Medium)](https://gaya3-r.medium.com/llm-driven-autonomous-penetration-testing-f4cb0566f386) **[Blog]** 
@@ -101,6 +103,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 ### 🛠️ Tools & Frameworks
 
 * [🛠️ RamiGPT (M507/RamiGPT on GitHub)](https://github.com/M507/RamiGPT) **[Tool/GitHub]** - An AI-driven offensive security tool.
+
+* [AgentHound (adithyan-ak)](https://github.com/adithyan-ak/agenthound) **[Tool/GitHub]** - Offensive security framework for agentic infrastructure. A single static collector maps MCP servers, A2A agents, credentials, hosts, and AI gateways from a compromised host into a JSON artifact, then builds an attack graph of credential chains, execution paths, and exfiltration vectors. Supports active, stealth (read-only), and deep collection modes. See also the author's write-up: [Building an AI Agent Attack Graph](https://adithyanak.com/build-ai-agent-attack-graph-agenthound/).
 
 * [hexstrike-ai (GitHub)](https://github.com/0x4m4/hexstrike-ai) **[GitHub]** - Agentic red-team framework for autonomous or assisted offensive tasks.
 * [SynthAPT (GitHub)](https://github.com/acedef/SynthAPT) **[GitHub]** - Synthetic APT simulation using agent workflows to emulate adversary behaviors.
