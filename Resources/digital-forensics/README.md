@@ -27,6 +27,10 @@ Welcome to the **Digital Forensics** section of Awesome GenAI CyberHub! This spa
 
 * [A Novel Ontology for Cyber-Attack Attribution and Investigation (Forensic Science International: Digital Investigation)](https://www.sciencedirect.com/science/article/pii/S2666281726000594) **[Paper]** - Proposes a structured ontology for cyber-attack attribution and investigation, enabling more systematic reasoning about threat actor identity and incident evidence.
 
+* 📄 [DFIR-Metric: A Benchmark Dataset for Evaluating Large Language Models in Digital Forensics and Incident Response (arXiv:2505.19973)](https://arxiv.org/abs/2505.19973) **[Paper/Benchmark]** - Three-part DFIR benchmark: 700 expert-reviewed knowledge questions, 150 CTF-style forensic challenges, and 500 disk/memory cases drawn from NIST's Computer Forensics Tool Testing program. Evaluates 14 LLMs on both accuracy and cross-trial consistency.
+
+* 📄 [PROVSEEK: LLM-driven Provenance Forensics for Threat Investigation and Detection (arXiv:2508.21323)](https://arxiv.org/abs/2508.21323) **[Paper/Framework]** - An agentic framework for provenance-driven forensic analysis, using specialized toolchains to generate context-aware queries against provenance graphs and ground threat-intelligence extraction in retrieved evidence.
+
 
 ### 📚 Articles & Blog Posts
 

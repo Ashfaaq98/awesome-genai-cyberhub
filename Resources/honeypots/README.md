@@ -37,6 +37,18 @@ Welcome to the **LLM-Based Honeypots** section of Awesome GenAI CyberHub! This s
 
 * [LLM-Sherlock: An LLM-based Jailbreak and Misuse Assessment Framework for Cybersecurity Applications](https://arxiv.org/html/2409.08234v1) **[Paper]** - While broader, this paper on assessing LLM misuse can be relevant to understanding attacks against/by LLM-based systems, including honeypots.
 
+* 📄 [SoK: Honeypots & LLMs, More Than the Sum of Their Parts? (arXiv:2510.25939)](https://arxiv.org/abs/2510.25939) **[Paper/SoK]** - Systematizes LLM-powered honeypot research since late 2022, asking whether LLMs actually resolve the long-standing design paradox of high-fidelity deception at low operational risk.
+
+* 📄 [AdvancedShelLM: A Stateful Multi-Agent LLM Honeypot for SSH Deception (arXiv:2606.27990)](https://arxiv.org/abs/2606.27990) **[Paper]** - Multi-agent, multi-LLM successor to shelLM using a Manager/Worker split plus a persistent filesystem, so concurrent attackers see the same evolving state. Reaches up to 99.02% pass rate on shell-behavior correctness tests.
+
+* 📄 [Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots (arXiv:2605.29963)](https://arxiv.org/abs/2605.29963) **[Paper/Framework]** - An evaluation framework for LLM-backed HTTP honeypots, targeting the gap between plausible-looking responses and measurable deception quality.
+
+* 📄 [Honeyquest for LLMs: Rethinking Cyber Deception for AI Attackers (arXiv:2606.21037)](https://arxiv.org/abs/2606.21037) **[Paper]** - Tests whether human-centered deception hypotheses transfer to AI attackers, comparing 21 LLMs across 10 providers (10,962 responses) against a 47-participant human baseline on identical reconnaissance queries.
+
+* 📄 [LLM-Based Penetration Testing in the Presence of Honeypots (arXiv:2609.08093)](https://arxiv.org/abs/2609.08093) **[Paper]** - Flips the usual framing: LLM attackers can reason about heterogeneous artifacts and use honeypot suspicion to steer target selection, formalized as a budgeted decision problem. Directly relevant to whether deception still works against agentic attackers.
+
+* 📄 [Towards Agentic Honeynet Configuration (arXiv:2603.14122)](https://arxiv.org/abs/2603.14122) **[Paper]** - Applies agentic reasoning to the honeynet configuration problem — which honeypots to deploy under real network and compute budget limits.
+
 
 ### 📚 Videos & Blog Posts
 

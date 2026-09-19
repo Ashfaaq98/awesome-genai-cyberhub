@@ -22,6 +22,10 @@ Welcome to the **Phishing Analysis** section of Awesome GenAI CyberHub! This spa
 
 * 📄 [Enhancing Phishing Email Identification with Large Language Models ](https://arxiv.org/pdf/2502.04759) **[Paper]**  *(Published February 2025)*
 
+* 📄 [MemoPhishAgent: Memory-Augmented Multi-Modal LLM Agent for Phishing URL Detection (arXiv:2602.21394)](https://arxiv.org/abs/2602.21394) **[Paper]** - Moves past prompt-based deterministic pipelines by giving the agent episodic memory of past reasoning trajectories plus dynamic tool orchestration. Improves recall by 13.6% on public datasets and 20% on live URLs crawled from five social platforms.
+
+* 📄 [Can MLLMs Detect Phishing? A Comprehensive Security Benchmark Suite (arXiv:2511.15165)](https://arxiv.org/abs/2511.15165) **[Paper/Benchmark]** - A multimodal phishing benchmark built around dynamic threats in academic environments, where institutions and researchers are high-value targets.
+
 
 ### 📚 Articles & Blog Posts
 

@@ -25,6 +25,14 @@ Welcome to the **AI SOC** section of Awesome GenAI CyberHub! This space is dedic
 
 * 📄 [Toward Robust Security Orchestration and Automated Response in Security Operations Centers with a Hyper-Automation Approach Using Agentic Artificial Intelligence](../../assets/docs/Toward-Robust-Security-Orchestration-and-Automated-Response.pdf) **[Paper]**
 
+* 📄 [AgentSOC: A Multi-Layer Agentic AI Framework for Security Operations Automation (arXiv:2604.20134)](https://arxiv.org/abs/2604.20134) **[Paper/Framework]** - A single operational loop spanning alert normalization, context enrichment, hypothesis generation, structural feasibility validation, and policy-compliant response execution.
+
+* 📄 [Before You Hand Over the Wheel: Evaluating LLMs for Security Incident Analysis (arXiv:2603.06422)](https://arxiv.org/abs/2603.06422) **[Paper/Benchmark]** - Argues that adopting LLMs for incident analysis without rigorous benchmarking is itself a risk, and builds an LLM-ready dataset spanning a wide spectrum of incident-analysis tasks.
+
+* 📄 [AI-Driven Security Alert Screening and Alert Fatigue Mitigation in Security Operations Centers: A Survey (arXiv:2605.08316)](https://arxiv.org/abs/2605.08316) **[Paper/Survey]** - Synthesizes 119 records (87 core studies, 2015–2026) into a four-stage taxonomy of filtering, triage, correlation, and generative augmentation, and names the persistent gaps in operational validation and adversarial robustness.
+
+* 📄 [PocketAgents: A Manifest-Driven Library of Autonomous Defense Agents (arXiv:2605.21694)](https://arxiv.org/abs/2605.21694) **[Paper/Framework]** - Addresses the question most defensive-LLM work skips: which model outputs may change system state. Each agent ships as a manifest, prompt, and runtime context, and the shared runtime accepts only typed reports whose action the manifest permits.
+
 
 ### 📚 Articles & Blog Posts
 

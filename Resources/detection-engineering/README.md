@@ -23,6 +23,14 @@ Welcome to the **Detection Engineering** section of Awesome GenAI CyberHub! This
 
 * 📄 [GRIDAI: Generating and Repairing Intrusion Detection Rules via Collaboration among Multiple LLM-based Agents (arXiv:2510.13257)](https://arxiv.org/abs/2510.13257) **[Paper]**
 
+* 📄 [RulePilot: An LLM-Powered Agent for Security Rule Generation (arXiv:2511.12224)](https://arxiv.org/abs/2511.12224) **[Paper]** - Tackles a real Sigma limitation: single-pattern matching cannot express SQL-style aggregation, statistical analysis, or time-window computation. Published at ICSE 2026.
+
+* 📄 [From Threat Intelligence to Detection: Knowledge-driven Enrichment and Template-based Rule Grounding for Automated Sigma Rule Generation (arXiv:2608.19011)](https://arxiv.org/abs/2608.19011) **[Paper]** - Enriches partial CTI input against a structured knowledge base, matches it to an existing Sigma corpus, and uses LLM-as-a-judge to iteratively validate the generated rule.
+
+* 📄 [From Attack Simulation to SIEM Rule: Deterministic Detection-as-Code Synthesis with Probe-Level Traceability (arXiv:2606.05252)](https://arxiv.org/abs/2606.05252) **[Paper]** - Closes the loop between breach-and-attack-simulation findings and the SIEM rules that should have caught them, keeping traceability down to the individual probe.
+
+* 📄 [CTI-REALM: Benchmark to Evaluate Agent Performance on Security Detection Rule Generation Capabilities (arXiv:2603.13517)](https://arxiv.org/abs/2603.13517) **[Paper/Benchmark]** - Evaluates agents end-to-end on interpreting CTI and producing detection rules, using authentic attack telemetry in a containerized sandbox and trajectory-based scoring that mixes deterministic checkpoints with LLM-as-judge.
+
 
 ### 📚 Articles & Blog Posts
 

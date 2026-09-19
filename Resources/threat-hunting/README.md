@@ -15,6 +15,8 @@ Welcome to the **AI-Driven Threat Hunting** section of Awesome GenAI CyberHub! T
 
 * 📄 [iThelma: An Autonomous LLM Agent for Cyber Threat Hunting via Playbook-Driven Intelligence (IEEE CNS 2025)](https://ieeexplore.ieee.org/document/11195050/) **[Paper]** - Presents iThelma, an autonomous LLM agent that integrates structured threat hunting playbooks with LLM reasoning to automate script generation, validation, and adaptive learning for enterprise-scale threat hunting. DOI: 10.1109/CNS66487.2025.11195050.
 
+* 📄 [Policy-Guided Threat Hunting: An LLM enabled Framework with Splunk SOC Triage (arXiv:2603.23966)](https://arxiv.org/abs/2603.23966) **[Paper/Framework]** - Integrates agentic AI with Splunk for continuous hunting over high-volume multi-device logs, adapting to changing network conditions and prioritizing by risk rather than alert order.
+
 
 ### 🛠️ Tools & Frameworks
 

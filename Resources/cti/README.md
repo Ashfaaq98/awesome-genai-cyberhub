@@ -25,6 +25,14 @@ Welcome to the **Cyber Threat Intelligence (CTI)** section of Awesome GenAI Cybe
 
 * 📄 [CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research? (arXiv:2603.09452)](https://arxiv.org/abs/2603.09452) **[Paper]** 
 
+* 📄 [Minerva: Reinforcement Learning with Verifiable Rewards for Cyber Threat Intelligence LLMs (arXiv:2602.00513)](https://arxiv.org/abs/2602.00513) **[Paper/Dataset]** - Exploits the fact that CTI standards define canonical identifiers and schemas, making model output deterministically verifiable — and therefore trainable with RLVR instead of supervised fine-tuning.
+
+* 📄 [Synthetic APTs: the Collapse of TTP-Based Attribution (arXiv:2606.07158)](https://arxiv.org/abs/2606.07158) **[Paper]** - Runs agents configured as APT28, APT29, APT41, APT44, and Lazarus against AI defenders on live cyber ranges, and questions whether adversaries still leave a recognizable operational fingerprint once emulation is AI-driven.
+
+* 📄 [Fully Automated End-to-End Adversary Emulation from MITRE ATT&CK Based CTI Using LLMs (arXiv:2607.14566)](https://arxiv.org/abs/2607.14566) **[Paper]** - Unifies playbook generation, execution, and failure recovery in one workflow: generates Caldera playbooks from CTI reports, runs them, and revises failed abilities through failure-type-aware recovery.
+
+* 📄 [A Structured Cyber Threat Intelligence Dataset Using STIX 2.1 Entities and MITRE ATT&CK Mappings (arXiv:2607.23312)](https://arxiv.org/abs/2607.23312) **[Paper/Dataset]** - 150 CTI reports (2015–2026) annotated into 4,777 STIX entities and 1,273 attack patterns across 269 unique ATT&CK techniques, with open-source LLMs evaluated as automated judges.
+
 
 ### 📚 Articles & Blog Posts
 
