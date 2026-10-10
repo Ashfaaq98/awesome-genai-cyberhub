@@ -21,7 +21,7 @@ Welcome to the **Digital Forensics** section of Awesome GenAI CyberHub! This spa
 
 * [Towards Large Language Model (LLM) Forensics Using LLM-based Invocation Log Analysis ](https://dl.acm.org/doi/10.1145/3689217.3690616) **[Paper]**
 
-* [Enhancing digital forensic investigations of darknet marketplace screenshots using OCR and LLMs ](https://www.sciencedirect.com/science/article/pii/S2666281725000113) **[Paper]** 
+* [ForensicLLM: A local large language model for digital forensics (Forensic Science International: Digital Investigation, DFRWS 2025)](https://www.sciencedirect.com/science/article/pii/S2666281725000113) **[Paper/Model]** - A 4-bit quantized LLaMA-3.1-8B fine-tuned on Q&A pairs drawn from digital forensics research articles and curated artifacts, aimed at offline use where cloud APIs are unavailable. Attributes sources correctly 86.6% of the time (81.2% with both authors and title) and beats both the base model and a RAG baseline in a survey of practitioners.
 
 * [Exploring the Potential of Large Language Models for Improving Digital Forensic Investigation Efficiency ](https://arxiv.org/abs/2402.19366) **[Paper]** 
 

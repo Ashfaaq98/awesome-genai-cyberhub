@@ -70,8 +70,6 @@ Welcome to the **Cyber Threat Intelligence (CTI)** section of Awesome GenAI Cybe
 
 ### 🛠️ Tools & Frameworks
 
-* [Incalmo](https://github.com/bsinger98/Incalmo) **[Tool/GitHub]** - CTI/OSINT helper tooling for security research workflows.
-
 * [TTP-LLM](https://github.com/RezzFayyazi/TTP-LLM) **[Tool/GitHub]** - LLM-assisted extraction/mapping of adversary TTPs from unstructured text.
 
 * [mitreattack-python](https://github.com/mitre-attack/mitreattack-python) **[Tool/GitHub]** - Python utilities for working with MITRE ATT&CK data (STIX, techniques, relationships).

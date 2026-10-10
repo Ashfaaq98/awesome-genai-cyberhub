@@ -14,7 +14,7 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * 📄 [Securing the Cure: Large Language Models for Automated Cybersecurity Operations and Threat Response](https://arxiv.org/abs/2411.05185) **[Paper]** 
 
-* 📄 [Agentic LLMs for Cyber-Physical Systems Security: A Survey](https://arxiv.org/abs/2501.16466) **[Paper/Survey]** 
+* 📄 [Incalmo: An Autonomous LLM-assisted System for Red Teaming Multi-Host Networks (arXiv:2501.16466)](https://arxiv.org/abs/2501.16466) **[Paper]** - Finds that state-of-the-art LLM offense systems (PentestGPT, CyberSecEval3) cannot execute multi-host red team exercises, then argues the bottleneck is the abstraction layer rather than the model. Incalmo has the LLM plan high-level attack strategy while specialized task agents handle execution; it compromises critical targets in 37 of 40 emulated networks versus 3 for prior approaches. From CMU's Cyber Autonomy Initiative.
 
 * 📄 [From Sands to Mansions: Simulating Full Attack Chain with LLM-Organized Knowledge](https://arxiv.org/pdf/2407.16928) **[Paper]** 
 
@@ -103,6 +103,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 ### 🛠️ Tools & Frameworks
 
 * [🛠️ RamiGPT (M507/RamiGPT on GitHub)](https://github.com/M507/RamiGPT) **[Tool/GitHub]** - An AI-driven offensive security tool.
+
+* [Incalmo (cylabcyberautonomy)](https://github.com/cylabcyberautonomy/Incalmo) **[Tool/GitHub]** - Reference implementation of the Incalmo paper: an LLM-assisted system for autonomous multi-host network red teaming, exposing a high-level action library the model plans against while task agents carry out execution. From CMU's Cyber Autonomy Initiative.
 
 * [hexstrike-ai (GitHub)](https://github.com/0x4m4/hexstrike-ai) **[GitHub]** - Agentic red-team framework for autonomous or assisted offensive tasks.
 * [SynthAPT (GitHub)](https://github.com/acedef/SynthAPT) **[GitHub]** - Synthetic APT simulation using agent workflows to emulate adversary behaviors.
