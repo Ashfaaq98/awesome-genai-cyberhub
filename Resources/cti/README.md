@@ -66,6 +66,8 @@ Welcome to the **Cyber Threat Intelligence (CTI)** section of Awesome GenAI Cybe
 
 * [SAFE CAMS / MIT working paper (7 Apr 2025)](https://cams.mit.edu/wp-content/uploads/Safe-CAMS-MIT-Article-Final-4-7-2025-Working-Paper.pdf?utm_medium=website&utm_source=direct&utm_campaign=safe-security) **[Paper]**
 
+* [The Closed Quorum: Inside the first reported autonomous AI C2 implant (Cisco Talos, Sep 2026)](https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant) **[Blog/Research]** - CAIRN's first published finding: a Go implant for Windows that replaces the C2 server with a panel of four commercial LLMs (DeepSeek, Qwen, Mistral, Gemini), each returning a schema-constrained JSON decision — inject, persist, steal, or move — resolved by plurality vote, with results relayed to a Discord webhook. A concrete datapoint on how fast malware moved from optional LLM features to autonomous orchestration.
+
 ### 🛠️ Tools & Frameworks
 
 * [Incalmo](https://github.com/bsinger98/Incalmo) **[Tool/GitHub]** - CTI/OSINT helper tooling for security research workflows.
