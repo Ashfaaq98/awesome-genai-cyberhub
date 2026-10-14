@@ -49,6 +49,8 @@ Welcome to the **LLM-Based Honeypots** section of Awesome GenAI CyberHub! This s
 
 * 📄 [Towards Agentic Honeynet Configuration (arXiv:2603.14122)](https://arxiv.org/abs/2603.14122) **[Paper]** - Applies agentic reasoning to the honeynet configuration problem — which honeypots to deploy under real network and compute budget limits.
 
+* 📄 [ORCAGen: Orchestrating Context-Aware Malware Deception with RAG-Guided Generative AI (arXiv:2610.12415)](https://arxiv.org/abs/2610.12415) **[Paper]** - Instead of removing or isolating suspicious programs on sight, ORCAGen uses GenAI to build malware-specific deception playbooks offline, validates them before deployment, and enforces them at runtime — trading immediate containment for observation of attacker behaviour and targeted countermeasures.
+
 
 ### 📚 Videos & Blog Posts
 
