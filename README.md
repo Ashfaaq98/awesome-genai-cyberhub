@@ -154,6 +154,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 🧠 [PRIMUS: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training](https://arxiv.org/abs/2502.11191) **[Paper/Dataset/Model]** 
 
+* 🧠 [CT0: Cybersecurity Transformer (arXiv:2610.16550)](https://arxiv.org/abs/2610.16550) **[Paper/Model]** - Asks how small a cybersecurity-specialist model can be and stay useful, noting that frontier models are increasingly reluctant to engage with authorised defensive and offensive security work. CT0-Micro is ~4B params on a Qwen3.5-4B base, distilled on the Cybersecurity AI (CAI) dataset, and serves two modes from one set of weights: a System 1 fast path that answers typed security decisions in a single forward pass without generating a token, and a System 2 tool-using agent, with a confidence gate between them. Solves 21.1% of cybench-subtask against 7.6% for its base, and screens 80 files/second for IOCs. Weights (Apache-2.0) are published as [aliasrobotics/alias3-micro-1026](https://huggingface.co/aliasrobotics/alias3-micro-1026) — the card calls it the first incarnation of CT0 rather than CT0-Micro. The CAI training dataset itself is proprietary.
+
 --- 
 
 ### 🥉 Benchmarks & Datasets
