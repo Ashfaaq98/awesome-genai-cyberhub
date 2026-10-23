@@ -140,6 +140,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * 🤖 [Darkmoon (ASCIT31)](https://github.com/ASCIT31/Dark-Moon) **[Tool/GitHub]** - Open-source (GPL-3.0) autonomous AI pentest platform and MCP host with per-technology offensive sub-agents (GraphQL, Spring, .NET, Node, PHP, Ruby, WordPress), Active Directory and Kubernetes coverage, 80+ orchestrated tools, a local 14B LLM, a Privacy Gateway, and an evidence trail per finding.
 
+* [Red Team Model Router (unst33r.si)](https://unst33r.si/blog) **[Tool/Website]** - Hosted OpenAI-compatible API serving abliterated and reduced-refusal open models (gpt-oss, Llama, Qwen) for authorized red-team tasking, with a documented model catalog and per-token pricing.
+
 
 ---
 
