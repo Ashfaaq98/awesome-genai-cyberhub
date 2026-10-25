@@ -220,6 +220,12 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [AgentCyberRange](https://agentcyberrange.io/) **[Benchmark/Website]** - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the [Research Paper (arXiv:2606.14295)](https://arxiv.org/abs/2606.14295) and the [WebExploitBench GitHub Repo](https://github.com/AgentCyberRange/WebExploitBench).
 
+* 📊 [ProtoArena: Can AI Agents Discover and Exploit Real-World Cross-Component Protocol Vulnerabilities? (arXiv:2610.17837)](https://arxiv.org/abs/2610.17837) **[Paper/Benchmark]** - Targets vulnerabilities that arise between protocol participants rather than inside one program — inconsistencies in message interpretation, timing, state, or trust assumptions. 80 black-box exploitation environments across 11 protocol domains and 7 attack categories, with agents interacting with live systems and no source access. Claude Opus 4.8 leads at 48.8% under guidance but only 12.5% under effect-directed black-box exploration.
+
+* 📊 [CWE-bench: Refocusing Agentic Security from Exploitation to Defense (arXiv:2610.17020)](https://arxiv.org/abs/2610.17020) **[Paper/Benchmark]** - Argues that a working exploit never proves an agent can make software safe: an attacker needs one vulnerability, a defender must fix them all. 120 held-out repository audit-and-repair tasks spanning 73 CWE types, eight languages, and all OWASP Top 10 2025 categories, where the agent is told neither the weakness, nor its location, nor how many exist, and each patch must block the exploit while preserving functionality. Best agents reach 68% pass@1. The task set is deliberately private to resist contamination.
+
+* 📊 [Discovery or Memorization? A Faithful Benchmark for Real-World Business-Logic Vulnerability Discovery (arXiv:2610.17542)](https://arxiv.org/abs/2610.17542) **[Paper/Benchmark]** - Introduces AnonVul, 132 cross-language business-logic vulnerabilities anonymized so models cannot recognize the underlying project, with oracles injected from expert specifications and differentially verified PoCs. Six LLM agents (Claude Opus 4.8, Claude Sonnet 4.6, GPT-5.4, GLM 5.2, Kimi K2.6, MiniMax M2.5) top out at 23.11%. Restoring software identity lifts discovery from 21.25% to 40.83% — evidence that published benchmarks substantially measure memorization.
+
 ---
 
 ## How to Navigate & Contribute
