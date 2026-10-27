@@ -51,6 +51,8 @@ Welcome to the **LLM-Based Honeypots** section of Awesome GenAI CyberHub! This s
 
 * 📄 [ORCAGen: Orchestrating Context-Aware Malware Deception with RAG-Guided Generative AI (arXiv:2610.12415)](https://arxiv.org/abs/2610.12415) **[Paper]** - Instead of removing or isolating suspicious programs on sight, ORCAGen uses GenAI to build malware-specific deception playbooks offline, validates them before deployment, and enforces them at runtime — trading immediate containment for observation of attacker behaviour and targeted countermeasures.
 
+* 📄 [HydraPoT: A Configurable Multi-Agent Framework for Cost-Aware LLM-Assisted Honeypots (arXiv:2610.27722)](https://arxiv.org/abs/2610.27722) **[Paper/Framework]** - Addresses the cost-versus-fidelity tradeoff in LLM honeypots by routing each attacker command to traditional emulation, a lightweight LLM, or a powerful cloud LLM according to a configurable complexity policy, while keeping shared state across agents.
+
 
 ### 📚 Videos & Blog Posts
 
