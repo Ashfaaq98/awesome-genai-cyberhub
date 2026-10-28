@@ -103,6 +103,8 @@ awesome-genai-cyberhub/
 
 * 🛠️ [AttackGen](https://attackgen.streamlit.app/) **[Tool/Website]** - Interactive helper for generating/structuring attack content and scenarios.
 
+* 🎓 [RansomLeak AI Security Training](https://ransomleak.com/catalogue/ai-security/) **[Training/Website]** - Free interactive exercises on prompt injection, agent goal hijacking, tool misuse and the rest of the OWASP LLM and Agentic Top 10; no signup for individual learners.
+
 * 🤖 [CAI (aliasrobotics/cai)](https://github.com/aliasrobotics/cai) **[Tool/GitHub]** - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).
 
 * 📄 [A Comprehensive Overview of Large Language Models (LLMs) for Cyber Defences: Opportunities and Directions ](https://arxiv.org/html/2405.14487v1) **[Paper/Review]** - Surveys LLM applications in cyber defense, categorizing them into threat intelligence, vulnerability assessment, network security, privacy, training, automation, and ethical guidelines. Also covers LLM concepts from Transformers to GPT.
