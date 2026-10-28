@@ -44,6 +44,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * [When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs (03 Feb 2025)](https://arxiv.org/pdf/2410.14569v3) **[Paper]**
 
+* 📄 [Ulysses: A Security Harness For Synthesizing Verifiable Web Exploits (arXiv:2610.31831)](https://arxiv.org/abs/2610.31831) **[Paper/Framework]** - Tackles the fact that an LLM cannot reliably verify its own generated exploit. Ulysses is a multi-agent harness that converts candidate vulnerability findings into verified Proofs of Exploitability for web applications, iterating over exploit hypotheses until success is established through independently observed execution effects.
+
 ### 📚 Articles & Blog Posts
 
 * [AI as tradecraft: how threat actors operationalize AI (Microsoft Security Blog)](https://www.microsoft.com/en-us/security/blog/2026/03/06/ai-as-tradecraft-how-threat-actors-operationalize-ai/) **[Blog]** - Analysis of how attackers integrate AI into reconnaissance, exploitation, and post-compromise TTPs.
