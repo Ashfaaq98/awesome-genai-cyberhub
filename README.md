@@ -226,6 +226,10 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [Discovery or Memorization? A Faithful Benchmark for Real-World Business-Logic Vulnerability Discovery (arXiv:2610.17542)](https://arxiv.org/abs/2610.17542) **[Paper/Benchmark]** - Introduces AnonVul, 132 cross-language business-logic vulnerabilities anonymized so models cannot recognize the underlying project, with oracles injected from expert specifications and differentially verified PoCs. Six LLM agents (Claude Opus 4.8, Claude Sonnet 4.6, GPT-5.4, GLM 5.2, Kimi K2.6, MiniMax M2.5) top out at 23.11%. Restoring software identity lifts discovery from 21.25% to 40.83% — evidence that published benchmarks substantially measure memorization.
 
+* 📊 [SecLog-Bench: A Scalable Benchmark for Cybersecurity Log Reasoning with Scaffolded Evidence (arXiv:2610.31000)](https://arxiv.org/abs/2610.31000) **[Paper/Benchmark]** - 29 attack scenarios with multi-source logs and step-by-step evidence-chain annotations rather than bare attack labels; the best of eight LLMs reaches only 44.44% accuracy. Code: [SecLog-Open/SecLog](https://github.com/SecLog-Open/SecLog).
+
+* 📊 [CyberDual: AI Attackers versus AI Code Reviewers in Real Software Maintenance (arXiv:2610.34435)](https://arxiv.org/abs/2610.34435) **[Paper/Benchmark]** - Attacker agents hide exploitable bugs in real open-source maintenance and reviewer agents hunt them, with the attacker's PoC rerun to decide each match. Reviewers catch 85–91% of 1,088 attacks; windows rebuild quarterly from upstream, so it cannot saturate. Code: [CyberDual/CyberDual](https://github.com/CyberDual/CyberDual).
+
 ---
 
 ## How to Navigate & Contribute
