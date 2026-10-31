@@ -17,6 +17,8 @@ Welcome to the **AI-Driven Threat Hunting** section of Awesome GenAI CyberHub! T
 
 * 📄 [Policy-Guided Threat Hunting: An LLM enabled Framework with Splunk SOC Triage (arXiv:2603.23966)](https://arxiv.org/abs/2603.23966) **[Paper/Framework]** - Integrates agentic AI with Splunk for continuous hunting over high-volume multi-device logs, adapting to changing network conditions and prioritizing by risk rather than alert order.
 
+* 📄 [Adversary Brains: Hypothesis-Based Logical Signatures for Threat Actor Detection with LLMs (arXiv:2610.35624)](https://arxiv.org/abs/2610.35624) **[Paper]** - Models a threat actor as an LLM-held, continuously testable hypothesis built on Analysis of Competing Hypotheses: where YARA matches a file and Sigma a log line, this matches a campaign.
+
 
 ### 🛠️ Tools & Frameworks
 
