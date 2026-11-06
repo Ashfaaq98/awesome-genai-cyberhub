@@ -26,6 +26,8 @@ Welcome to the **Phishing Analysis** section of Awesome GenAI CyberHub! This spa
 
 * 📄 [Can MLLMs Detect Phishing? A Comprehensive Security Benchmark Suite (arXiv:2511.15165)](https://arxiv.org/abs/2511.15165) **[Paper/Benchmark]** - A multimodal phishing benchmark built around dynamic threats in academic environments, where institutions and researchers are high-value targets.
 
+* 📄 [PhishGen: Understanding LLM Capabilities in Automated Phishing Website Generation (arXiv:2610.30226)](https://arxiv.org/abs/2610.30226) **[Paper/Benchmark]** - Tests 14 LLMs at building working phishing pages against 64 real kits; finds model fingerprints that current detectors miss.
+
 
 ### 📚 Articles & Blog Posts
 
