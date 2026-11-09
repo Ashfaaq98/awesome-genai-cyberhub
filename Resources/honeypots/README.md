@@ -35,7 +35,7 @@ Welcome to the **LLM-Based Honeypots** section of Awesome GenAI CyberHub! This s
 
 * [MySQL-Pot: A LLM-Based Honeypot for MySQL Threat Protection](https://ieeexplore.ieee.org/document/10607309) **[Paper]** - Additional research from IEEE on LLM-based deception.
 
-* [LLM-Sherlock: An LLM-based Jailbreak and Misuse Assessment Framework for Cybersecurity Applications](https://arxiv.org/html/2409.08234v1) **[Paper]** - While broader, this paper on assessing LLM misuse can be relevant to understanding attacks against/by LLM-based systems, including honeypots.
+* [LLM Honeypot: Leveraging Large Language Models as Advanced Interactive Honeypot Systems](https://arxiv.org/html/2409.08234v1) **[Paper]** - Fine-tunes an open-source LLM on real attacker commands and responses to build an interactive SSH honeypot, validated through live deployment.
 
 * 📄 [SoK: Honeypots & LLMs, More Than the Sum of Their Parts? (arXiv:2510.25939)](https://arxiv.org/abs/2510.25939) **[Paper/SoK]** - Systematizes LLM-powered honeypot research since late 2022, asking whether LLMs actually resolve the long-standing design paradox of high-fidelity deception at low operational risk.
 
