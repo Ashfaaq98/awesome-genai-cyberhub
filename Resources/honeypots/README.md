@@ -29,7 +29,7 @@ Welcome to the **LLM-Based Honeypots** section of Awesome GenAI CyberHub! This s
 
 * [HoneyGPT: A Large Language Model (LLM) Framework for Creating Context-Aware and Evasive Honeypots](https://www.cse.psu.edu/~sxz16/papers/HoneyGPT.pdf) **[Paper]** - Details a framework for LLM-based honeypots.
 
-* [LLMPot: Automated LLM-based Industrial Honeypot Generation via Optimal Prompt Inversion](https://paperswithcode.com/paper/llmpot-automated-llm-based-industrial) **[Paper]** - Focuses on automated generation of industrial honeypots using LLMs. (Also see arXiv version: [2405.05999](https://arxiv.org/abs/2405.05999))
+* [LLMPot: Dynamically Configured LLM-based Honeypot for Industrial Protocol and Physical Process Emulation](https://arxiv.org/abs/2405.05999) **[Paper]** - Focuses on automated generation of industrial honeypots using LLMs.
 
 * [LLM in the Shell: Generative Honeypots](https://ieeexplore.ieee.org/document/10628775) **[Paper]** - Research on LLM applications in honeypots from IEEE.
 
