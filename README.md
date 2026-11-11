@@ -230,6 +230,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [CyberDual: AI Attackers versus AI Code Reviewers in Real Software Maintenance (arXiv:2610.34435)](https://arxiv.org/abs/2610.34435) **[Paper/Benchmark]** - Attacker agents hide exploitable bugs in real open-source maintenance and reviewer agents hunt them, with the attacker's PoC rerun to decide each match. Reviewers catch 85–91% of 1,088 attacks; windows rebuild quarterly from upstream, so it cannot saturate. Code: [CyberDual/CyberDual](https://github.com/CyberDual/CyberDual).
 
+* 📊 [The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark (SRE-Bench, arXiv:2608.11469)](https://arxiv.org/abs/2608.11469) **[Paper/Benchmark]** - 1,572 graded binary reverse-engineering tasks across firmware, malware, games, file formats and protocols, built from 19 unseen programs; frontier agents fully solve under a third. [Project page](https://daplab.cs.columbia.edu/benchmarks/sre-bench/).
+
 ---
 
 ## How to Navigate & Contribute
