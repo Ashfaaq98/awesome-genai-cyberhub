@@ -28,6 +28,8 @@ Welcome to the **Phishing Analysis** section of Awesome GenAI CyberHub! This spa
 
 * 📄 [PhishGen: Understanding LLM Capabilities in Automated Phishing Website Generation (arXiv:2610.30226)](https://arxiv.org/abs/2610.30226) **[Paper/Benchmark]** - Tests 14 LLMs at building working phishing pages against 64 real kits; finds model fingerprints that current detectors miss.
 
+* 📄 [ReDence: A Hybrid Agentic and Decision-Model Framework for Rapid, Evidence-Grounded Detection of Modern Social Engineering Scams (arXiv:2610.30963)](https://arxiv.org/abs/2610.30963) **[Paper/Framework]** - Local Qwen3.5-4B investigator agent plus a fast decision model browse and verify scam sites; 96% accuracy across 12 scam types, 4× faster than comparable agents.
+
 
 ### 📚 Articles & Blog Posts
 
