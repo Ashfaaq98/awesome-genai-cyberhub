@@ -30,6 +30,8 @@ Welcome to the **Phishing Analysis** section of Awesome GenAI CyberHub! This spa
 
 * 📄 [ReDence: A Hybrid Agentic and Decision-Model Framework for Rapid, Evidence-Grounded Detection of Modern Social Engineering Scams (arXiv:2610.30963)](https://arxiv.org/abs/2610.30963) **[Paper/Framework]** - Local Qwen3.5-4B investigator agent plus a fast decision model browse and verify scam sites; 96% accuracy across 12 scam types, 4× faster than comparable agents.
 
+* 📄 [Game of Phones: Harnessing Game Theory and LLMs in 'Bot Wars' to Counteract Phone Scams (arXiv:2610.26781)](https://arxiv.org/abs/2610.26781) **[Paper]** - LLM scam-baiters learn counter-strategies in-context to waste phone scammers' time, benchmarked against Nash equilibrium; releases 300 labelled dialogues.
+
 
 ### 📚 Articles & Blog Posts
 
