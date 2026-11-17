@@ -232,6 +232,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark (SRE-Bench, arXiv:2608.11469)](https://arxiv.org/abs/2608.11469) **[Paper/Benchmark]** - 1,572 graded binary reverse-engineering tasks across firmware, malware, games, file formats and protocols, built from 19 unseen programs; frontier agents fully solve under a third. [Project page](https://daplab.cs.columbia.edu/benchmarks/sre-bench/).
 
+* 📊 [BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems (arXiv:2505.15216)](https://arxiv.org/abs/2505.15216) **[Paper/Benchmark]** - Agents detect, exploit and patch 40 real bug bounties ($10–$30,485) across 25 live codebases; agents patch far better (up to 90%) than they find new bugs (12.5% at best).
+
 ---
 
 ## How to Navigate & Contribute
