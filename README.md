@@ -234,6 +234,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems (arXiv:2505.15216)](https://arxiv.org/abs/2505.15216) **[Paper/Benchmark]** - Agents detect, exploit and patch 40 real bug bounties ($10–$30,485) across 25 live codebases; agents patch far better (up to 90%) than they find new bugs (12.5% at best).
 
+* 📊 [CyberSOCEval: Benchmarking LLMs Capabilities for Malware Analysis and Threat Intelligence Reasoning (arXiv:2509.20166)](https://arxiv.org/abs/2509.20166) **[Paper/Benchmark]** - Open SOC benchmarks within Meta's CyberSecEval 4 testing LLMs on malware analysis and threat-intelligence reasoning; current models are far from saturating it.
+
 ---
 
 ## How to Navigate & Contribute
