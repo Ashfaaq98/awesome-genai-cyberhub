@@ -236,6 +236,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [CyberSOCEval: Benchmarking LLMs Capabilities for Malware Analysis and Threat Intelligence Reasoning (arXiv:2509.20166)](https://arxiv.org/abs/2509.20166) **[Paper/Benchmark]** - Open SOC benchmarks within Meta's CyberSecEval 4 testing LLMs on malware analysis and threat-intelligence reasoning; current models are far from saturating it.
 
+* 📊 [ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation (arXiv:2507.14201)](https://arxiv.org/abs/2507.14201) **[Paper/Benchmark]** - Agents investigate threats by querying 57 Microsoft Sentinel log tables from a controlled Azure tenant (7,542 questions); best reward 0.606. [Code](https://github.com/microsoft/SecRL).
+
 ---
 
 ## How to Navigate & Contribute
