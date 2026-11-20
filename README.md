@@ -238,6 +238,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation (arXiv:2507.14201)](https://arxiv.org/abs/2507.14201) **[Paper/Benchmark]** - Agents investigate threats by querying 57 Microsoft Sentinel log tables from a controlled Azure tenant (7,542 questions); best reward 0.606. [Code](https://github.com/microsoft/SecRL).
 
+* 📊 [Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps (arXiv:2604.19533)](https://arxiv.org/abs/2604.19533) **[Paper/Benchmark]** - Agents hunt through 75K–135K raw Windows event logs via SQL across 106 real attack procedures; the best model finds only 3.8% of malicious events.
+
 ---
 
 ## How to Navigate & Contribute
