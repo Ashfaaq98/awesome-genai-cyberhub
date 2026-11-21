@@ -240,6 +240,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps (arXiv:2604.19533)](https://arxiv.org/abs/2604.19533) **[Paper/Benchmark]** - Agents hunt through 75K–135K raw Windows event logs via SQL across 106 real attack procedures; the best model finds only 3.8% of malicious events.
 
+* 📊 [AthenaBench: A Dynamic Benchmark for Evaluating LLMs in Cyber Threat Intelligence (arXiv:2511.01144)](https://arxiv.org/abs/2511.01144) **[Paper/Benchmark]** - Extends CTIBench with a cleaner dataset, refined metrics and a risk-mitigation task; 12 LLMs still struggle with threat-actor attribution.
+
 ---
 
 ## How to Navigate & Contribute
