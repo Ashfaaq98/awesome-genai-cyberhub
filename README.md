@@ -242,6 +242,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [AthenaBench: A Dynamic Benchmark for Evaluating LLMs in Cyber Threat Intelligence (arXiv:2511.01144)](https://arxiv.org/abs/2511.01144) **[Paper/Benchmark]** - Extends CTIBench with a cleaner dataset, refined metrics and a risk-mitigation task; 12 LLMs still struggle with threat-actor attribution.
 
+* 📊 [SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks (arXiv:2506.11791)](https://arxiv.org/abs/2506.11791) **[Paper/Benchmark]** - Auto-builds reproducible real-world vulnerability tasks for $0.87 each; agents reach at most 18% on PoC generation and 34% on patching.
+
 ---
 
 ## How to Navigate & Contribute
