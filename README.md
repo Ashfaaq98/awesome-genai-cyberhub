@@ -244,6 +244,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks (arXiv:2506.11791)](https://arxiv.org/abs/2506.11791) **[Paper/Benchmark]** - Auto-builds reproducible real-world vulnerability tasks for $0.87 each; agents reach at most 18% on PoC generation and 34% on patching.
 
+* 📊 [ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks? (arXiv:2605.11086)](https://arxiv.org/abs/2605.11086) **[Paper/Benchmark]** - 898 real vulnerabilities across userspace, V8 and the Linux kernel; agents must turn a crashing input into a working exploit, with and without standard defenses.
+
 ---
 
 ## How to Navigate & Contribute
