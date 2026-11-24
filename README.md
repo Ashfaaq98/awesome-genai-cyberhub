@@ -246,6 +246,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks? (arXiv:2605.11086)](https://arxiv.org/abs/2605.11086) **[Paper/Benchmark]** - 898 real vulnerabilities across userspace, V8 and the Linux kernel; agents must turn a crashing input into a working exploit, with and without standard defenses.
 
+* 📊 [ExploitBench: A Capability Ladder Benchmark for LLM Cybersecurity Agents (arXiv:2605.14153)](https://arxiv.org/abs/2605.14153) **[Paper/Benchmark]** - Grades exploitation on 16 capability flags from crash to code execution on 41 V8 bugs; public frontier models crash targets routinely but rarely reach code execution.
+
 ---
 
 ## How to Navigate & Contribute
