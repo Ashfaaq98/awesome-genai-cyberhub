@@ -101,6 +101,8 @@ awesome-genai-cyberhub/
 
 * 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) **[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
 
+* 📚 [Awesome Security Agent Harnesses](https://github.com/Ed-Marcavage/awesome-security-agent-harnesses) **[Awesome List/GitHub]** - Curated list of open-source AI pentesting tools, AI SOC agents and security agent harnesses, with cyber ranges and benchmarks.
+
 * 🛠️ [AttackGen](https://attackgen.streamlit.app/) **[Tool/Website]** - Interactive helper for generating/structuring attack content and scenarios.
 
 * 🤖 [CAI (aliasrobotics/cai)](https://github.com/aliasrobotics/cai) **[Tool/GitHub]** - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).
